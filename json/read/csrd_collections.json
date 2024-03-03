@@ -1,0 +1,51 @@
+{
+    "types": {
+        "name": "Types",
+        "count": 4,
+        "page": ""
+    },
+    "flavors": {
+        "name": "Flavors",
+        "count": 4
+    },
+    "descriptors": {
+        "name": "Descriptors",
+        "count": 100
+    },
+    "foci": {
+        "name": "Foci",
+        "count": 100
+    },
+    "abilities": {
+        "name": "Abilities",
+        "count": 998
+    },
+    "cyphers": {
+        "name": "Cyphers",
+        "count": 1000
+    },
+    "artifacts": {
+        "name": "Artifacts",
+        "count": 1000
+    },
+    "creatures_npcs": {
+        "name": "Creatures & NPCs",
+        "count": 1000
+    },
+    "intrutions": {
+        "name": "Intrutions",
+        "count": 1000
+    },
+    "arcs": {
+        "name": "Character Arcs",
+        "count": 1000
+    },
+    "equipment": {
+        "name": "Equipment",
+        "count": 1000
+    },
+    "other_advancements": {
+        "name": "Other Advancements",
+        "count": 1000
+    }
+}

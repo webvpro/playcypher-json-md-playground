@@ -1,0 +1,16 @@
+{
+  "name": "yup-json",
+  "version": "1.0.0",
+  "description": "json reading and writing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mlstanley@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-appwrite": "^11.1.0"
+  }
+}

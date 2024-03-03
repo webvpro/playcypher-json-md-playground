@@ -1,0 +1,557 @@
+[
+    {
+      "id": "74ea89f1-b482-4560-ba28-eefb284b4e9a",
+      "name": "Testagin",
+      "url": "",
+      "advancements": [],
+      "pools": [
+        {
+          "key": "might",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "speed",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "intellect",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        }
+      ],
+      "recovery": {
+        "die": 1,
+        "mod": 1,
+        "rest": [
+          {
+            "id": "rest_action",
+            "label": "Action",
+            "used": false
+          },
+          {
+            "id": "rest_10_mins",
+            "label": "10 mins",
+            "used": false
+          },
+          {
+            "id": "rest_1_hour",
+            "label": "1 Hour",
+            "used": false
+          },
+          {
+            "id": "rest_10_hours",
+            "label": "10 hours",
+            "used": false
+          }
+        ],
+        "damage": [
+          {
+            "id": "damage_impaired",
+            "label": "Impaired",
+            "used": false
+          },
+          {
+            "id": "damage_debilitated",
+            "label": "Debilitated",
+            "used": false
+          }
+        ]
+      },
+      "xp": 0,
+      "tier": [],
+      "effort": 0,
+      "descriptors": [
+        {
+          "sourceKey": "",
+          "alias": "",
+          "description": "",
+          "features": [],
+          "starters": []
+        }
+      ],
+      "types": [
+        {
+          "sourceKey": "",
+          "alias": "",
+          "tiers": [
+            {
+              "key": 1,
+              "swaps": [],
+              "selections": []
+            }
+          ]
+        }
+      ],
+      "foci": [],
+      "powerShifts": [],
+      "skills": [],
+      "attacks": [],
+      "background": "",
+      "arcs": [],
+      "notes": [],
+      "equipment": {
+        "assets": [],
+        "cyphers": [],
+        "artifacts": [],
+        "armor": []
+      }
+    },
+    {
+      "id": "1cce1119-a374-434c-95c9-835cd63a7185",
+      "name": "fixname",
+      "url": "",
+      "advancements": [],
+      "pools": [
+        {
+          "key": "might",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "speed",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "intellect",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        }
+      ],
+      "recovery": {
+        "die": 1,
+        "mod": 1,
+        "rest": [
+          {
+            "id": "rest_action",
+            "label": "Action",
+            "used": false
+          },
+          {
+            "id": "rest_10_mins",
+            "label": "10 mins",
+            "used": false
+          },
+          {
+            "id": "rest_1_hour",
+            "label": "1 Hour",
+            "used": false
+          },
+          {
+            "id": "rest_10_hours",
+            "label": "10 hours",
+            "used": false
+          }
+        ],
+        "damage": [
+          {
+            "id": "damage_impaired",
+            "label": "Impaired",
+            "inflected": false
+          },
+          {
+            "id": "damage_debilitated",
+            "label": "Debilitated",
+            "inflected": false
+          }
+        ]
+      },
+      "xp": 0,
+      "abilities": [],
+      "tiers": [],
+      "effort": 0,
+      "descriptors": [],
+      "types": [],
+      "foci": [],
+      "powerShifts": [],
+      "skills": [],
+      "attacks": [],
+      "background": "",
+      "sentence": "",
+      "arcs": [],
+      "notes": [],
+      "equipment": {
+        "assets": [],
+        "cyphers": [],
+        "artifacts": []
+      }
+    },
+    {
+      "id": "954bbe11-dfaf-421b-ae1b-7b5420f55ea6",
+      "name": "ficname",
+      "url": "https://i.imgur.com/Zy4sS1B.jpg",
+      "advancements": [],
+      "pools": [
+        {
+          "key": "might",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "speed",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "intellect",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        }
+      ],
+      "recovery": {
+        "die": 1,
+        "mod": 1,
+        "rest": [
+          {
+            "id": "rest_action",
+            "label": "Action",
+            "used": false
+          },
+          {
+            "id": "rest_10_mins",
+            "label": "10 mins",
+            "used": false
+          },
+          {
+            "id": "rest_1_hour",
+            "label": "1 Hour",
+            "used": false
+          },
+          {
+            "id": "rest_10_hours",
+            "label": "10 hours",
+            "used": false
+          }
+        ],
+        "damage": [
+          {
+            "id": "damage_impaired",
+            "label": "Impaired",
+            "inflected": false
+          },
+          {
+            "id": "damage_debilitated",
+            "label": "Debilitated",
+            "inflected": false
+          }
+        ]
+      },
+      "xp": 0,
+      "abilities": [],
+      "tiers": [],
+      "effort": 0,
+      "descriptors": [],
+      "types": [],
+      "foci": [],
+      "powerShifts": [],
+      "skills": [],
+      "attacks": [],
+      "background": "",
+      "sentence": "",
+      "arcs": [],
+      "notes": [],
+      "equipment": {
+        "assets": [],
+        "cyphers": [],
+        "artifacts": []
+      }
+    },
+    {
+      "id": "ebebb3c0-5a06-4cdc-a8a7-17ff9a324b84",
+      "name": "ssdasda",
+      "url": "",
+      "advancements": [],
+      "pools": [
+        {
+          "key": "might",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "speed",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "intellect",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        }
+      ],
+      "recovery": {
+        "die": 1,
+        "mod": 1,
+        "rest": [
+          {
+            "id": "rest_action",
+            "label": "Action",
+            "used": false
+          },
+          {
+            "id": "rest_10_mins",
+            "label": "10 mins",
+            "used": false
+          },
+          {
+            "id": "rest_1_hour",
+            "label": "1 Hour",
+            "used": false
+          },
+          {
+            "id": "rest_10_hours",
+            "label": "10 hours",
+            "used": false
+          }
+        ],
+        "damage": [
+          {
+            "id": "damage_impaired",
+            "label": "Impaired",
+            "inflected": false
+          },
+          {
+            "id": "damage_debilitated",
+            "label": "Debilitated",
+            "inflected": false
+          }
+        ]
+      },
+      "xp": 0,
+      "abilities": [],
+      "tiers": [],
+      "effort": 0,
+      "descriptors": [],
+      "types": [],
+      "foci": [],
+      "powerShifts": [],
+      "skills": [],
+      "attacks": [],
+      "background": "",
+      "sentence": "",
+      "arcs": [],
+      "notes": [],
+      "equipment": {
+        "assets": [],
+        "cyphers": [],
+        "artifacts": []
+      }
+    },
+    {
+      "id": "74ea89f1-b482-4560-ba28-eefb284b4e9a",
+      "name": "Testagincccc",
+      "url": "",
+      "advancements": [],
+      "pools": [
+        {
+          "key": "might",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "speed",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "intellect",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        }
+      ],
+      "recovery": {
+        "die": 1,
+        "mod": 1,
+        "rest": [
+          {
+            "id": "rest_action",
+            "label": "Action",
+            "used": false
+          },
+          {
+            "id": "rest_10_mins",
+            "label": "10 mins",
+            "used": false
+          },
+          {
+            "id": "rest_1_hour",
+            "label": "1 Hour",
+            "used": false
+          },
+          {
+            "id": "rest_10_hours",
+            "label": "10 hours",
+            "used": false
+          }
+        ],
+        "damage": [
+          {
+            "id": "damage_impaired",
+            "label": "Impaired",
+            "used": false
+          },
+          {
+            "id": "damage_debilitated",
+            "label": "Debilitated",
+            "used": false
+          }
+        ]
+      },
+      "xp": 0,
+      "tier": [],
+      "effort": 0,
+      "descriptors": [
+        {
+          "sourceKey": "",
+          "alias": "",
+          "description": "",
+          "features": [],
+          "starters": []
+        }
+      ],
+      "types": [
+        {
+          "sourceKey": "",
+          "alias": "",
+          "tiers": [
+            {
+              "key": 1,
+              "swaps": [],
+              "selections": []
+            }
+          ]
+        }
+      ],
+      "foci": [],
+      "powerShifts": [],
+      "skills": [],
+      "attacks": [],
+      "background": "",
+      "arcs": [],
+      "notes": [],
+      "equipment": {
+        "assets": [],
+        "cyphers": [],
+        "artifacts": [],
+        "armor": []
+      }
+    },
+    {
+      "id": "74ea89f1-b482-4560-ba28-eefb284b4e9a",
+      "name": "MikeNew",
+      "url": "",
+      "advancements": [],
+      "pools": [
+        {
+          "key": "might",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "speed",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        },
+        {
+          "key": "intellect",
+          "value": 0,
+          "current": 0,
+          "edge": 0
+        }
+      ],
+      "recovery": {
+        "die": 1,
+        "mod": 1,
+        "rest": [
+          {
+            "id": "rest_action",
+            "label": "Action",
+            "used": false
+          },
+          {
+            "id": "rest_10_mins",
+            "label": "10 mins",
+            "used": false
+          },
+          {
+            "id": "rest_1_hour",
+            "label": "1 Hour",
+            "used": false
+          },
+          {
+            "id": "rest_10_hours",
+            "label": "10 hours",
+            "used": false
+          }
+        ],
+        "damage": [
+          {
+            "id": "damage_impaired",
+            "label": "Impaired",
+            "used": false
+          },
+          {
+            "id": "damage_debilitated",
+            "label": "Debilitated",
+            "used": false
+          }
+        ]
+      },
+      "xp": 0,
+      "tier": [],
+      "effort": 0,
+      "descriptors": [
+        {
+          "sourceKey": "",
+          "alias": "",
+          "description": "",
+          "features": [],
+          "starters": []
+        }
+      ],
+      "types": [
+        {
+          "sourceKey": "",
+          "alias": "",
+          "tiers": [
+            {
+              "key": 1,
+              "swaps": [],
+              "selections": []
+            }
+          ]
+        }
+      ],
+      "foci": [],
+      "powerShifts": [],
+      "skills": [],
+      "attacks": [],
+      "background": "",
+      "arcs": [],
+      "notes": [],
+      "equipment": {
+        "assets": [],
+        "cyphers": [],
+        "artifacts": [],
+        "armor": []
+      }
+    }
+  ]

@@ -1,0 +1,140 @@
+[
+    {
+        "name": "CORRUPT MAGE",
+        "kind": "Creature",
+        "level": 7,
+        "description": "Some wizards and sorcerers are tempted by dark magic, inevitably damning their souls and corrupting their flesh as they cut corners and delve into forbidden lore. Their research and experimentation create new kinds of rampaging monsters and turn people into misshapen horrors. They sometimes modify their own bodies in order to gain demonic or draconic powers, or make pacts with such creatures for knowledge and magical ingredients.",
+        "motive": "Magical knowledge at all costs",
+        "environment": "Almost anywhere, usually with fleshbeast minions",
+        "health": 35,
+        "damage": 7,
+        "armor": 1,
+        "movement": "Short",
+        "modifications": [
+            "All tasks related to knowledge of arcane lore, demons, and altering bodies as level 8"
+        ],
+        "combat": "Corrupt mages blast opponents with beams of energy that blister, slash, and rot flesh, attacking up to three creatures as an action. Many of them have given themselves long claws and teeth that they can use to make up to three melee attacks per action. \nA corrupt mage knows many spells, such as the following:\n Armor: Covers a creature with ugly scales, granting them +3 to Armor for an hour. \n* Madness: Wracks the brain of one creature within short range for one hour, reducing them to a babbling catatonic state in which they can't recognize friend or foe. If disturbed or harmed, the creature is likely to lash out with lethal force at what it perceives as its tormentors. \n* Organ Request: Extracts a handful of internal organs from an opponent within short range, moving the creature one step down the damage track if it fails a Might defense roll. \n* Polymorph: Transforms one foe within short range into a tiny, helpless creature such as a cockroach, fish, or snail for one hour. \n* Summon Demon: Summons a demon to serve the mage for one hour. \n* Teleport: Moves the mage up to 100 miles (160 km) away, or less far if they bring additional creatures with them. \n* Twist Flesh: Reshapes the flesh of a creature within close range, turning it into a hideous monstrosity for one hour. The transformed creature's actions are hindered, but its physical attacks inflict +3 points of damage. The mage's control over the creature is limited to indicating which target it should attack.",
+        "loot": "A corrupt mage has 1d6 cyphers and perhaps a wizardly artifact.",
+        "interaction": "Corrupt mages generally can't be trusted and see other creatures as things to experiment on and vivisect. They might negotiate with someone who brings them a rare specimen or spell. Many are mentally disturbed by their research and self-alterations and may fluctuate between calm clarity, obsession, paranoia, and rage.",
+        "use": "The strange hybrid monsters emerging from the forest are said to be the creations of a corrupt mage. A corrupt mage in a calm state presents themselves as a neutral or benevolent wizard seeking assistance on a task.",
+        "intrusions": "A desperate or dying corrupt mage transforms their own body into several new fleshbeasts, which retain fragments of the mage's intelligence and immediately attack. \n The mage's attack spell is incredibly painful, stunning the character for one round if they fail a Might defense roll."
+    },
+    {
+        "name": "Fleshbeast",
+        "kind": "Creature",
+        "level": 4,
+        "modifications": [
+            "attacks as level 5"
+        ],
+        "health": 15,
+        "armor": 1
+    },
+    {
+        "name": "CAMBION",
+        "kind": "Creature",
+        "description": "Fine ebony scales cover a cambion's perfectly athletic figure. Two reddish horns grow from\nits brow, and the tips of fangs emerge from between its dusky lips. Its eyes, absent iris and pupil, are the color of driven snow. Cambions are cursed creatures, born of mortal and demonic parentage, and are also sometimes called helborn. Most cambions give in to what everyone expects of them, and embrace evil.",
+        "motive": "Defense, conquest, revenge on a world that's rejected them",
+        "environment": "Anywhere, often hiding in plain sight",
+        "health": 25,
+        "damage": "6 points",
+        "armor": 1,
+        "movement": "Short",
+        "modifications": [
+            "Disguise as level 7"
+        ],
+        "combat": "Cambions sometimes wield heavy weapons in combat, especially if they come across an artifact that can enhance their attacks. Some cambions develop their natural and magical abilities to become powerful sorcerers, but most can call up hellish energy merely by willing it at least once per day, as follows.\nFinger of Torture: A ruby ray lances out from the cambion's finger to strike an enemy prone with torturous pain on a failed Might defense task. The target automatically takes 6 points of damage each round until they can escape the effect with an Intellect task.\nSoulfire Blast: An explosion of soul-rending black and crimson fire explodes around up to three targets standing next to each other within short range, inflicting 4 points of damage and stunning the targets so that they lose their next action on a failed Speed defense task.",
+        "interactions": "Cambions are bleak, depressed, and misunderstood. Most have turned to evil, but a few can be redeemed.",
+        "uses": "A great fire is seen burning on the horizon. The next day, travelers come across a burned region with a crater that has destroyed a farmhouse. At the center of the crater is an unconscious human with hornlike growths on its head.",
+        "loot": "Powerful cambions sometimes wield artifacts as weapons.",
+        "intrusions": "The character's cypher explodes when touched by cambion demon fire on a failed Speed defense task."
+    },
+    {
+        "name": "CYCLOPS",
+        "kind": "Creature",
+        "description": "Cyclopes resemble massive humans that stand 50 to 60 feet (15 to 18 m) tall and weigh about 10,000 pounds (4,500 kg). Everything about these giants is exaggerated, from the thick features of their faces to their oversized hands and lumpy, corpulent bodies. They clothe themselves in animal skins, scraps of cloth, or canvas stolen during their travels. A cyclops’s most distinctive feature is the single eye positioned in the center of its forehead. \nCyclopes live on the edges of civilized areas or on remote islands. For all their power and stature, they aren’t especially brave, and most have a dim idea that puny humans have an advantage when they have numbers on their side.",
+        "motive": "Hungers for flesh",
+        "environment": "Almost anywhere",
+        "health": 32,
+        "damage": "8 points",
+        "armor": 1,
+        "movement": "Short",
+        "modifications": [
+            "Attacks targets within immediate range as level 5 due to poor eyesight",
+            "Speed defense as level 5 due to size",
+            "Intellect defense as level 4"
+        ],
+        "combat": "A cyclops can always resort to using its fists in melee, pummeling opponents with knuckles the size of large hogs. However, most cyclopes carry a tree trunk and use it to sweep enemies from their path. Due to its massive height, a cyclops can make a melee attack against creatures within short range. \nCyclopes can pry up boulders from the ground and throw them at targets within long range. A thrown boulder inflicts 8 points of damage to all targets in an immediate area. \nKilling a cyclops can be dangerous. When killed, it falls away from the attacker that delivered the killing blow. Any creature under it when it falls must make a successful Speed defense roll or be pinned under its corpse and take 7 points of damage. Escaping from under a dead cyclops requires a successful Might roll.",
+        "interactions": "Cyclopes know the language of the lands they inhabit, but they are notoriously dim and easily fooled. A cyclops thinks about its belly first and foremost and doesn't pay much attention to what it stuffs in its mouth.",
+        "uses": "A cyclops has been rampaging across the countryside, and warriors sent to deal with it have been vanquished. PCs who investigate learn that the cyclops has been robbed and is trying to find the stolen item.",
+        "loot": "Most cyclopes carry sacks filled with things they find interesting or plan to eat. Aside from the rubbish, a typical sack contains 1d100 coins of the realm and a couple of cyphers.",
+        "intrusions": "The cyclops hits a character so hard that they fly a short distance away and land prone. \n A character struck by the cyclops’s fist is grabbed and stuffed in the creature’s sack."
+    },
+    {
+        "name": "HALFLING",
+        "kind": "NPC",
+        "description": "A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions.",
+        "motive": "Defense, comfort",
+        "health": 9,
+        "damage": 3,
+        "armor": "0 or 1",
+        "movement": "Short",
+        "modifications": "Intellect defense, pleasant social interactions, and stealth as level 4",
+        "combat": "Halflings are remarkably skilled with knives, clubs, slings, and small bows. They prefer not to fight larger creatures head on; instead they stay at range, plan ambushes to quickly overwhelm opponents, or team up with a larger ally so they can attack a foe's back and legs.",
+        "interaction": "Halflings enjoy the company of larger folks as long as they aren't mocked for their size. They're brave and determined when they need to be, though some might complain about wanting to go home.",
+        "use": "A young halfling wants to have some adventures before settling down. The local thieves' guild is said to employ halflings as lookouts and cutpurses, sometimes disguised as human children.",
+        "loot": "In addition to their weapons (and perhaps some light armor) and food, a halfling might have an interesting cypher or two. Most carry several useful moderately priced items, or an expensive item such as an heirloom snuff box or a nice bag of tools."
+    },
+    {
+        "name": "OCCULTIST",
+        "kind": "NPC",
+        "description": "Paranormal researchers, cultists, secret practitioners of white magic, and coven members might be occultists. Thanks to their study of the metaphysical, occultists learn several magical tricks, including the ability to summon or banish the dead.",
+        "health": 15,
+        "damage": 5,
+        "movement": "Short",
+        "modifications": [
+            "Knowledge of occult topics and rituals as level 8",
+            "Ability to detect lies and tricks as level 2"
+        ],
+        "combat": "An occultist has a charm or device for summoning a level 5 spirit or demon that will do their bidding for ten minutes. Some also have (or instead have) a spell, item, or device that inflicts 5 points of damage on normal creatures within long range, and 10 points of damage on a demon or spirit (or, instead of dealing extra damage, the effect confines the demon or spirit in some way).",
+        "interaction": "Occultists are deeply concerned with spiritual or demonic matters and see those influences in all things, whether those influences exist or not. That makes them amenable to persuasion and deception, if couched in the language of spiritual influence.",
+        "use": "To find a needed answer, the spirit of a dead person must be questioned. Alternatively, a haunting presence must be banished. Either way, the task requires an occultist.",
+        "loot": "In addition to their clothing and mundane weapons, occultists have currency equivalent to an inexpensive item, a cypher, and possibly an artifact related to their power over spirits or demons.",
+        "intrusion": "A bony hand erupts from the ground at the character's feet. On a failed Speed defense roll, they are held in place until they succeed on a Might-based task to escape. Each round the character fails to escape, the hand squeezes for 3 points of damage."
+    },
+    {
+        "name": "PALADIN",
+        "kind": "NPC",
+        "description": "Paladins are heroes who swear a holy oath to vanquish evil. Their power and righteousness are a gift and a heavy burden, and most of them expect to die in battle against an evil foe.",
+        "motive": "Protecting the innocent, destroying evil",
+        "health": 15,
+        "damage": 5,
+        "armor": "2 or 3",
+        "movement": "Short",
+        "modifications": [
+            "Attacks and Might defense as level 5"
+        ],
+        "combat": "Paladins like flashy weapons and shiny armor, which help them show their devotion to the ideals of goodness and draw the attention of evil foes. Many choose a two-handed weapon, but some prefer using a shield in their off hand (defense-oriented paladins like these inflict only 4 points of damage with their attacks but gain an asset on Speed defense). \nBlessed by the powers of good, paladins can draw on innate holy magic for several purposes, such as detecting the presence of supernatural evil (demons, evil dragons, undead, and so on), restoring 4 health to themselves or a touched creature, smiting an evil foe to inflict an additional 4 points of damage, or breaking free of mind control.",
+        "interaction": "Paladins have big personalities and strongly believe in their purpose and goals. They have no tolerance for evil acts and are unwilling to look the other way when their allies want to bend the rules or take advantage of a \"grey area.\" However, they are not fools and won't throw away their lives for nothing.",
+        "use": "A paladin lays claim to a foe the characters are seeking or have captured. An old paladin is looking for one last villain to smite.",
+        "loot": "In addition to their weapons and armor, paladins might have one or two cyphers. More experienced ones might be lucky enough to have an artifact (usually a weapon or armor)."
+    },
+    {
+        "name": "CRIME BOSS",
+        "kind":"NPC",
+        "description": "A crime boss usually isn't physically powerful but wields power through lies, bribery, and control. Rarely encountered alone, they rely on guards, thugs, and other measures to provide physical security. A crime boss could be a petty noble, a mafia king, or the captain of a pirate ship that sails the seas or glides the space lanes.",
+        "motive": "Money and power",
+        "environment": null,
+        "health": 12,
+        "damage": "5 points",
+        "armor": 1,
+        "movement": "Short",
+        "modifications": [
+            "Deception, persuasion, intimidation, and tasks related to friendly interaction as level 7"
+        ],
+        "combat": "Guards, thugs, and other followers deal 1 additional point of damage when the crime boss can see them and issue commands. If possible, crime bosses fight while mounted or in a vehicle, directing their followers from the rear of any conflict, concentrating first on issuing orders.",
+        "interactions": "Crime bosses are committed to their plans, whatever those might be. Most bosses rely on a lieutenant or trusted thug to interact with people in their place.",
+        "uses": "A crime boss and their followers execute a heist on a secure location and take hostages when things go south. Someone must go in and talk to the crime boss to defuse the situation.",
+        "loot": "A crime boss has currency equivalent to a very expensive item in addition to weapons, medium armor, and miscellaneous gear.",
+        "intrusions": "The crime boss uses a clever trick or cypher to block all incoming attacks in a given round of combat."
+    }
+]

@@ -1,0 +1,564 @@
+{
+    "warrior": {
+        "name": "WARRIOR",
+        "descriptions": [],
+        "intrusions": [
+            {
+                "name": "Perfect Setup",
+                "description": "You're fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action."
+            },
+            {
+                "name": "Old Friend",
+                "description": "A comrade in arms from your past shows up unexpectedly and provides aid in whatever you're doing. They are on a mission of their own and can't stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal."
+            },
+            {
+                "name": "Weapon Break",
+                "description": "Your foe's weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track."
+            }
+        ],
+        "starting_pools": {
+            "Intellect": 8,
+            "Might": 10,
+            "Speed": 10
+        },
+        "starting_features": [
+            {
+                "name": "Effort",
+                "description": "Your Effort is 1."
+            },
+            {
+                "name": "Physical Nature",
+                "description": "You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0."
+            },
+            {
+                "name": "Cypher Use",
+                "description": "You can bear two cyphers at a time."
+            },
+            {
+                "name": "Weapons",
+                "description": "You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler."
+            },
+            {
+                "name": "Starting Equipment",
+                "description": "Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items."
+            }
+        ],
+        "tier_abilities": {
+            "tier_1": {
+                "number": 1,
+                "limit": 4,
+                "abilities": [
+                    "bash",
+                    "combat_prowess",
+                    "control_the_field",
+                    "improved_edge",
+                    "no_need_for_weapons",
+                    "overwatch",
+                    "physical_skills",
+                    "practiced_in_armor",
+                    "quick_throw",
+                    "swipe",
+                    "trained_without_armor"
+                ]
+            },
+            "tier_2": {
+                "number": 2,
+                "limit": 2,
+                "abilities": [
+                    "crushing_blow",
+                    "hemorrhage",
+                    "reload",
+                    "skill_with_attacks",
+                    "skill_with_defense",
+                    "successive_attack"
+                ]
+            },
+            "tier_3": {
+                "number": 3,
+                "limit": 3,
+                "abilities": [
+                    "deadly_aim",
+                    "energy_resistance",
+                    "experienced_in_armor",
+                    "expert_cypher_use",
+                    "fury",
+                    "lunge",
+                    "reaction",
+                    "seize_the_moment",
+                    "slice",
+                    "spray",
+                    "trick_shot",
+                    "vigilance"
+                ]
+            },
+            "tier_4": {
+                "number": 4,
+                "limit": 2,
+                "abilities": [
+                    "amazing_effort",
+                    "capable_warrior",
+                    "experienced_defender",
+                    "feint",
+                    "increased_effects",
+                    "momentum",
+                    "pry_open",
+                    "snipe",
+                    "tough_as_nails"
+                ]
+            },
+            "tier_5": {
+                "number": 5,
+                "limit": 3,
+                "abilities": [
+                    "adroit_cypher_use",
+                    "arc_spray",
+                    "improved_success",
+                    "jump_attack",
+                    "mastery_in_armor",
+                    "mastery_with_attacks",
+                    "mastery_with_defense",
+                    "parry"
+                ]
+            },
+            "tier_6": {
+                "number": 6,
+                "limit": 2,
+                "abilities": [
+                    "again_and_again",
+                    "finishing_blow",
+                    "magnificent_moment",
+                    "murderer",
+                    "spin_attack",
+                    "weapon_and_body"
+                ]
+            }
+        }
+    },
+    "adept": {
+        "name": "ADEPT",
+        "descriptions": [],
+        "intrusions": [
+            {
+                "name": "Advantageous Malfunction",
+                "description": "A device being used against you malfunctions. It might harm the user or one of their allies for a round, or activate a dramatic and distracting side effect for a few rounds."
+            },
+            {
+                "name": "Convenient Idea",
+                "description": "A flash of insight provides you with a clear answer or suggests a course of action with regard to an urgent question, problem, or obstacle you're facing."
+            },
+            {
+                "name": "Inexplicably Unbroken",
+                "description": "An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact."
+            }
+        ],
+        "starting_pools": {
+            "Intellect": 12,
+            "Might": 7,
+            "Speed": 9
+        },
+        "starting_features": [
+            {
+                "name": "Effort",
+                "description": "Your Effort is 1."
+            },
+            {
+                "name": "Genius",
+                "description": "You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0."
+            },
+            {
+                "name": "Expert Cypher Use",
+                "description": "You can bear three cyphers at a time."
+            },
+            {
+                "name": "Starting Equipment",
+                "description": "Appropriate clothing, plus two expensive items, two moderately priced items, and up to four inexpensive items of your choice."
+            },
+            {
+                "name": "Weapons",
+                "description": "You can use light weapons without penalty. You have an inability with medium weapons and heavy weapons; your attacks with medium and heavy weapons are hindered."
+            }
+        ],
+        "tier_abilities": {
+            "tier_1": {
+                "number": 1,
+                "limit": 4,
+                "abilities": [
+                    "distortion",
+                    "erase_memories",
+                    "far_step",
+                    "hedge_magic",
+                    "magic_training",
+                    "onslaught",
+                    "push",
+                    "resonance_field",
+                    "scan",
+                    "shatter",
+                    "ward"
+                ]
+            },
+            "tier_2": {
+                "number": 2,
+                "limit": 1,
+                "abilities": [
+                    "adaptation",
+                    "cutting_light",
+                    "hover",
+                    "mind_reading",
+                    "retrieve_memories",
+                    "reveal",
+                    "stasis"
+                ]
+            },
+            "tier_3": {
+                "number": 3,
+                "limit": 2,
+                "abilities": [
+                    "adroit_cypher_use",
+                    "countermeasures",
+                    "energy_protection",
+                    "fire_and_ice",
+                    "force_field_barrier",
+                    "sensor",
+                    "targeting_eye"
+                ]
+            },
+            "tier_4": {
+                "number": 4,
+                "limit": 1,
+                "abilities": [
+                    "death_touch",
+                    "exile",
+                    "invisibility",
+                    "matter_cloud",
+                    "mind_control",
+                    "projection",
+                    "rapid_processing",
+                    "regeneration",
+                    "reshape",
+                    "wormhole"
+                ]
+            },
+            "tier_5": {
+                "number": 5,
+                "limit": 2,
+                "abilities": [
+                    "absorb_energy",
+                    "concussion",
+                    "conjuration",
+                    "create",
+                    "dust_to_dust",
+                    "knowing_the_unknown",
+                    "master_cypher_use",
+                    "teleportation",
+                    "true_senses"
+                ]
+            },
+            "tier_6": {
+                "number": 6,
+                "limit": 1,
+                "abilities": [
+                    "control_weather",
+                    "earthquake",
+                    "move_mountains",
+                    "traverse_the_worlds",
+                    "usurp_cypher"
+                ]
+            }
+        }
+    },
+    "explorer": {
+        "name": "EXPLORER",
+        "descriptions": [],
+        "intrusions": [
+            {
+                "name": "Fortuitous Malfunction",
+                "description": "A trap or a dangerous device malfunctions before it can affect you."
+            },
+            {
+                "name": "Serendipitous Landmark",
+                "description": "Just when it seems like the path is lost (or you are), a trail marker, a landmark, or simply the way the terrain or corridor bends, rises, or falls away suggests to you the best path forward, at least from this point."
+            },
+            {
+                "name": "Weak Strain",
+                "description": "The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise."
+            }
+        ],
+        "starting_pools": {
+            "Intellect": 9,
+            "Might": 10,
+            "Speed": 9
+        },
+        "starting_features": [
+            {
+                "name": "Effort",
+                "description": "Your Effort is 1."
+            },
+            {
+                "name": "Physical Nature",
+                "description": "You have a Might Edge of 1, a Speed Edge of 0, and an Intellect Edge of 0."
+            },
+            {
+                "name": "Cypher Use",
+                "description": "You can bear two cyphers at a time."
+            },
+            {
+                "name": "Starting Equipment",
+                "description": "Appropriate clothing and a weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items."
+            },
+            {
+                "name": "Weapons",
+                "description": "You can use light and medium weapons without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered."
+            }
+        ],
+        "tier_abilities": {
+            "tier_1": {
+                "number": 1,
+                "limit": 4,
+                "abilities": [
+                    "block",
+                    "danger_sense",
+                    "decipher",
+                    "endurance",
+                    "find_the_way",
+                    "fleet_of_foot",
+                    "improved_edge",
+                    "knowledge_skills",
+                    "muscles_of_iron",
+                    "no_need_for_weapons",
+                    "physical_skills",
+                    "practiced_in_armor",
+                    "practiced_with_all_weapons",
+                    "surging_confidence",
+                    "trained_without_armor"
+                ]
+            },
+            "tier_2": {
+                "number": 2,
+                "limit": 4,
+                "abilities": [
+                    "curious",
+                    "danger_instinct",
+                    "enable_others",
+                    "escape",
+                    "eye_for_detail",
+                    "foil_danger",
+                    "hand_to_eye",
+                    "investigative_skills",
+                    "quick_recovery",
+                    "range_increase",
+                    "skill_with_defense",
+                    "stand_watch",
+                    "travel_skills",
+                    "wreck"
+                ]
+            },
+            "tier_3": {
+                "number": 3,
+                "limit": 3,
+                "abilities": [
+                    "controlled_fall",
+                    "experienced_in_armor",
+                    "expert_cypher_use",
+                    "ignore_the_pain",
+                    "obstacle_running",
+                    "resilience",
+                    "run_and_fight",
+                    "seize_the_moment",
+                    "skill_with_attacks",
+                    "stone_breaker",
+                    "think_your_way_out",
+                    "trapfinder",
+                    "wrest_from_chance"
+                ]
+            },
+            "tier_4": {
+                "number": 4,
+                "limit": 2,
+                "abilities": [
+                    "capable_warrior",
+                    "expert_skill",
+                    "increased_effects",
+                    "read_the_signs",
+                    "runner",
+                    "subtle_steps",
+                    "tough_as_nails"
+                ]
+            },
+            "tier_5": {
+                "number": 5,
+                "limit": 3,
+                "abilities": [
+                    "adroit_cypher_use",
+                    "free_to_move",
+                    "group_friendship",
+                    "hard_to_kill",
+                    "jump_attack",
+                    "mastery_with_defense",
+                    "parry",
+                    "physically_gifted",
+                    "take_command",
+                    "vigilant"
+                ]
+            },
+            "tier_6": {
+                "number": 6,
+                "limit": 3,
+                "abilities": [
+                    "again_and_again",
+                    "inspire_coordinated_actions",
+                    "mastery_in_armor",
+                    "mastery_with_attacks",
+                    "negate_danger",
+                    "share_defense",
+                    "spin_attack",
+                    "wild_vitality"
+                ]
+            }
+        }
+    },
+    "speaker": {
+        "name": "SPEAKER",
+        "descriptions": [],
+        "intrusions": [
+            {
+                "name": "Friendly NPC",
+                "description": "An NPC you don't know, someone you don't know that well, or someone you know but who hasn't been particularly friendly in the past chooses to help you, though doesn't necessarily explain why. Maybe they'll ask you for a favor in return afterward, depending on how much trouble they go to."
+            },
+            {
+                "name": "Perfect Suggestion",
+                "description": "A follower or other already-friendly NPC suggests a course of action with regard to an urgent question, problem, or obstacle you're facing."
+            },
+            {
+                "name": "Unexpected Gift",
+                "description": "An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there's something you're failing to understand or grasp."
+            }
+        ],
+        "starting_pools": {
+            "Speed": 9,
+            "Might": 8,
+            "Intellect": 11
+        },
+        "starting_features": [
+            {
+                "name": "Effort",
+                "description": "Your Effort is 1."
+            },
+            {
+                "name": "Genius",
+                "description": "You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0."
+            },
+            {
+                "name": "Cypher Use",
+                "description": "You can bear two cyphers at a time."
+            },
+            {
+                "name": "Weapons",
+                "description": "You can use light weapons without penalty. You have an inability with medium and heavy weapons; your attacks with medium and heavy weapons are hindered."
+            },
+            {
+                "name": "Starting Equipment",
+                "description": "Appropriate clothing and a light weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items."
+            }
+        ],
+        "tier_abilities": {
+            "tier_1": {
+                "number": 1,
+                "limit": 4,
+                "abilities": [
+                    "anecdote",
+                    "babel",
+                    "demeanor_of_command",
+                    "encouragement",
+                    "enthrall",
+                    "erase_memories",
+                    "fast_talk",
+                    "inspire_aggression",
+                    "interaction_skills",
+                    "practiced_with_medium_weapons",
+                    "spin_identity",
+                    "terrifying_presence",
+                    "understanding"
+                ]
+            },
+            "tier_2": {
+                "number": 2,
+                "limit": 2,
+                "abilities": [
+                    "basic_follower",
+                    "calm_stranger",
+                    "disincentivize",
+                    "gather_intelligence",
+                    "impart_ideal",
+                    "inspiring_ease",
+                    "interaction_skills",
+                    "practiced_in_armor",
+                    "skill_with_defense",
+                    "speedy_recovery",
+                    "unexpected_betrayal"
+                ]
+            },
+            "tier_3": {
+                "number": 3,
+                "limit": 3,
+                "abilities": [
+                    "accelerate",
+                    "blend_in",
+                    "discerning_mind",
+                    "expert_cypher_use",
+                    "expert_follower",
+                    "grand_deception",
+                    "lead_by_inquiry",
+                    "mind_reading",
+                    "oratory",
+                    "perfect_stranger",
+                    "quick_wits",
+                    "telling"
+                ]
+            },
+            "tier_4": {
+                "number": 4,
+                "limit": 2,
+                "abilities": [
+                    "anticipate_attack",
+                    "confounding_banter",
+                    "feint",
+                    "heightened_skills",
+                    "psychosis",
+                    "read_the_signs",
+                    "spur_effort",
+                    "strategize",
+                    "suggestion"
+                ]
+            },
+            "tier_5": {
+                "number": 5,
+                "limit": 3,
+                "abilities": [
+                    "adroit_cypher_use",
+                    "discipline_of_watchfulness",
+                    "experienced_in_armor",
+                    "flee",
+                    "foul_aura",
+                    "knowing_the_unknown",
+                    "regeneration",
+                    "skill_with_attacks",
+                    "stimulate"
+                ]
+            },
+            "tier_6": {
+                "number": 6,
+                "limit": 2,
+                "abilities": [
+                    "assume_control",
+                    "battle_management",
+                    "crowd_control",
+                    "inspiring_success",
+                    "recruit_deputy",
+                    "shatter_mind",
+                    "true_senses",
+                    "word_of_command"
+                ]
+            }
+        }
+    }
+}

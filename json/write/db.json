@@ -1,0 +1,14 @@
+{
+    "advancements": {
+        "label": "advancements",
+        "description": "The basics of progressing to the next tier usually involves four steps."
+    },
+    "types": {
+        "label": "types",
+        "description": "Character type is the core of a character. A type helps determine a character's place in the world and relationship with other people in the setting. It's the noun of the sentence \"I am an adjective noun who verbs.\""
+    },
+    "flavors": {
+        "label": "flavors",
+        "description": "Flavors are groups of special abilities the GM and players can use to alter a character type to make it more to their liking or more appropriate to the genre or setting"
+    }
+}        

@@ -1,0 +1,5612 @@
+{
+    "ABIDESINSTONE": {
+        "name": "abides in stone",
+        "description": "Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.",
+        "intrusion": "Creatures of stone sometimes forget their own strength or weight. A walking statue can terrify common folk.",
+        "abilities": [
+            {
+                "name": "Golem Body",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Golem Healing",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Golem Grip",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Trained Basher",
+                "tier": 3,
+                "preselected": true
+            },
+            {
+                "name": "Golem Stomp",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Weaponization",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Deep Reserves",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Specialized Basher",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Still As a Statue",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Ultra Enhancement",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Mind Surge",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "ABSORBSENERGY": {
+        "name": "absorbs energy",
+        "description": "You can harness kinetic energy and transform it into other kinds of energy.",
+        "intrusion": "Energy goes to ground in a destructive way. Some predators feed directly on energy. An unintended item is drained of energy.",
+        "abilities": [
+            {
+                "name": "Absorb Kinetic Energy",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Release Energy",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Energize Object",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Absorb Pure Energy",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Improved Absorb Kinetic Energy",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Overcharge Energy",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Energize Creature",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Energize Crowd",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Overcharge Device",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "AWAKENSDREAMS": {
+        "name": "awakens dreams",
+        "description": "You can pull images from dreams and bring them to life in the waking world.",
+        "intrusion": "An unexpected sleepwalking episode puts the character into a dangerous situation. A nightmare breaks free of a dream.",
+        "abilities": [
+            {
+                "name": "Dreamcraft",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Oneirochemy",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Dream Thief",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Dream Becomes Reality",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhanced Intellect",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Daydream",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Nightmare",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Chamber of Dreams",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Reactive Field",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "BATTLESROBOTS": {
+        "name": "battles robots",
+        "description": "You excel in battling robots, automatons, and machine entities.",
+        "intrusion": "The robot explodes upon defeat. Other robots come after the character for revenge.",
+        "abilities": [
+            {
+                "name": "Machine Vulnerabilities",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Tech Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Defense Against Robots",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Machine Hunting",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Disable Mechanisms",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Surprise Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Robot Fighter",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Drain Power",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Deactivate Mechanisms",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "BEARSAHALOOFFIRE": {
+        "name": "bears a halo of fire",
+        "description": "You can sheath your body in flames, which protects you and harms your foes.",
+        "intrusion": "Fire burns flammable material. Fire spreads out of control. Primitive creatures fear fire and often attack what they fear.",
+        "abilities": [
+            {
+                "name": "Shroud of Flame",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Hurl Flame",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Wings of Fire",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Fiery Hand of Doom",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Flameblade",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Fire Tendrils",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Fire Servant",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Inferno Trail",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "BLAZESWITHRADIANCE": {
+        "name": "blazes with radiance",
+        "description": "You can create light, sculpt it, bend it away from you, or gather it to use as a weapon.",
+        "intrusion": "Allies are accidentally dazzled or blinded. Bright flashes draw guards.",
+        "abilities": [
+            {
+                "name": "Enlightened",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Illuminating Touch",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Dazzling Sunburst",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Burning Light",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sunlight",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Disappear",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Living Light",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Defensive Field",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "BRANDISHESANEXOTICSHIELD": {
+        "name": "brandishes an exotic shield",
+        "description": "You deploy an amazing shield of pure force that provides protection and some offensive options.",
+        "intrusion": "The shield is temporarily lost. A foe temporarily ends up with the shield.",
+        "abilities": [
+            {
+                "name": "Force Field Shield",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Force Bash",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enveloping Shield",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Healing Pulse",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Throw Force Shield",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Energized Shield",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Force Wall",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Bouncing Shield",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Shield Burst",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "BUILDSROBOTS": {
+        "name": "builds robots",
+        "description": "Your robotic creations do as they are commanded.",
+        "intrusion": "The robot is hacked, gains a mind of its own, or unexpectedly detonates.",
+        "abilities": [
+            {
+                "name": "Robot Assistant",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Robot Builder",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Robot Control",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Expert Follower",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Robot Upgrade",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Robot Fleet",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Robot Evolution",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Robot Upgrade",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CALCULATESTHEINCALCULABLE": {
+        "name": "calculates the incalculable",
+        "description": "Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.",
+        "intrusion": "Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.",
+        "abilities": [
+            {
+                "name": "Predictive Equation",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Higher Mathematics",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Predictive Model",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Subconscious Defense",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhanced Intellect",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Cognizant Offense",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Intellect",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Further Mathematics",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Knowing the Unknown",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Intellect",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CHANNELSDIVINEBLESSINGS": {
+        "name": "channels divine blessings",
+        "description": "A devout follower of a divine being, you channel some of your deity's power to achieve wonders.",
+        "intrusion": "A demon investigates divine magic use. A rival cult has issues with the character's teachings.",
+        "abilities": [
+            {
+                "name": "Blessing of the Gods",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Intellect",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Divine Radiance",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Fire Bloom",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Overawe",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Divine Intervention",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Divine Symbol",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Summon Demon",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "COMMANDSMENTALPOWERS": {
+        "name": "commands mental powers",
+        "description": "You have honed the power of your mind to perform amazing psychic deeds.",
+        "intrusion": "Something glimpsed in the target's mind is horrifying. A feedback loop allows the target to read the character's mind.",
+        "abilities": [
+            {
+                "name": "Telepathic",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Mind Reading",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Psychic Burst",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Psychic Suggestion",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Use Senses of Others",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Precognition",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Mind Control",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Telepathic Network",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CONDUCTSWEIRDSCIENCE": {
+        "name": "conducts weird science",
+        "description": "Your preternatural insight and ability make you a scientist capable of amazing feats.",
+        "intrusion": "Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created or modified by weird science is depleted, it detonates.",
+        "abilities": [
+            {
+                "name": "Lab Analysis",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Knowledge Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Modify Device",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Better Living Through Chemistry",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Incredible Health",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Knowledge Skills",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Just a Bit Mad",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Weird Science Breakthrough",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Incredible Feat of Science",
+                "tier": 6,
+                "preselected": true
+            },
+            {
+                "name": "Inventor",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Defensive Field",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CONSORTSWITHTHEDEAD": {
+        "name": "consorts with the dead",
+        "description": "The dead answer your questions, and their reanimated corpses serve you.",
+        "intrusion": "The character's necromantic reputation precedes them. A corpse seeks revenge for being reanimated.",
+        "abilities": [
+            {
+                "name": "Speaker for the Dead",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Necromancy",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Reading the Room",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Repair Flesh",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Necromancy",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Terrifying Gaze",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "True Necromancy",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Word of Death",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CONTROLSBEASTS": {
+        "name": "controls beasts",
+        "description": "Your ability to communicate and lead beasts is uncanny.",
+        "intrusion": "The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.",
+        "abilities": [
+            {
+                "name": "Beast Companion",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Soothe the Savage",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Communication",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Mount",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Stronger Together",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Beast Eyes",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Improved Companion",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Beast Call",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "As If One Creature",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Control the Savage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CONTROLSGRAVITY": {
+        "name": "controls gravity",
+        "description": "You can sway the attraction of gravity itself.",
+        "intrusion": "Onlookers react with unreasoning fear. A weird interaction sends an ally or object careening into the sky.",
+        "abilities": [
+            {
+                "name": "Weighty",
+                "tier": 1,
+                "preselected": false
+            },
+            {
+                "name": "Hover",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Speed Edge",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Define Down",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Gravity Cleave",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Field of Gravity",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Flight",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Improved Gravity Cleave",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Weight of the World",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "COPIESSUPERPOWERS": {
+        "name": "copies superpowers",
+        "description": "You can copy others' skills, abilities, and superpowers.",
+        "intrusion": "A copied power ends unexpectedly or goes out of control. A copied power doesn't bring secondary powers with it (like gaining superspeed without protection from air friction, or not being immune to the heat from your own fire bolts).",
+        "abilities": [
+            {
+                "name": "Flex Skill",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Flex Skill",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Copy Power",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Steal Power",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Wildcard Powers",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Improved Copying",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Power Memory",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Amazing Copying",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Multiple Copying",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CRAFTSILLUSIONS": {
+        "name": "crafts illusions",
+        "description": "You fashion images from light that are so perfect they seem real.",
+        "intrusion": "The illusion isn't believable. The illusion is pierced at just the wrong moment.",
+        "abilities": [
+            {
+                "name": "Minor Illusion",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Illusory Disguise",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Cast Illusion",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Major Illusion",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Illusory Selves",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Terrifying Image",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Grandiose Illusion",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Permanent Illusion",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "CRAFTSUNIQUEOBJECTS": {
+        "name": "crafts unique objects",
+        "description": "You're an inventor of strange and useful objects.",
+        "intrusion": "The object malfunctions, breaks, or suffers catastrophic or unexpected failure.",
+        "abilities": [
+            {
+                "name": "Crafter",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Master Identifier",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Artifact Tinkerer",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Quick Work",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Master Crafter",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Built-in Weaponry",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Cyphersmith",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Innovator",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Inventor",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Fusion Armor",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "DANCESWITHDARKMATTER": {
+        "name": "dances with dark matter",
+        "description": "You can manipulate shadow and \"dark\" matter.",
+        "intrusion": "Dark matter skulks away as if possessed by a mind of its own.",
+        "abilities": [
+            {
+                "name": "Ribbons of Dark Matter",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Void Wings",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Dark Matter Shroud",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Dark Matter Strike",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Dark Matter Shell",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Windwracked Traveler",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Dark Matter Structure",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Embrace the Night",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "DEFENDSTHEGATE": {
+        "name": "defends the gate",
+        "description": "Everyone wants you on their side when it comes to a fight because nothing gets by you.",
+        "intrusion": "A strategically important structure collapses. The enemy attacks from an unexpected direction.",
+        "abilities": [
+            {
+                "name": "Fortified Position",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Rally to Me",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Mind for Might",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Fortification Builder",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Divert Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Might",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Reinforcing Field",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Generate Force Field",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Stun Attack",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "DEFENDSTHEWEAK": {
+        "name": "defends the weak",
+        "description": "You stand up for the helpless, the weak, and the unprotected.",
+        "intrusion": "A character focused on protecting others may periodically leave themselves vulnerable to attacks.",
+        "abilities": [
+            {
+                "name": "Courageous",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Warding Shield",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Devoted Defender",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Insight",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Dual Wards",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "True Guardian",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Combat Challenge",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Willing Sacrifice",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Resuscitate",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "True Defender",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "DESCENDSFROMNOBILITY": {
+        "name": "descends from nobility",
+        "description": "A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.",
+        "intrusion": "Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.",
+        "abilities": [
+            {
+                "name": "Retinue",
+                "tier": 1,
+                "preselected": false
+            },
+            {
+                "name": "Privileged Nobility",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Trained Interlocutor",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Advanced Command",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Noble's Courage",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Expert Follower",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Asserting Your Privilege",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Able Assistance",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Mind of a Leader",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "DOESN'TDOMUCH": {
+        "name": "doesn't do much",
+        "description": "You're a slacker, but you know a little about a lot of things.",
+        "intrusion": "New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.",
+        "abilities": [
+            {
+                "name": "Life Lessons",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Totally Chill",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Improvise",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Life Lessons",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Skill With Defense",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Drawing on Life's Experiences",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Quick Wits",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "DRIVESLIKEAMANIAC": {
+        "name": "drives like a maniac",
+        "description": "Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don't think about the risks when you're behind the wheel.",
+        "intrusion": "The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.",
+        "abilities": [
+            {
+                "name": "Driver",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Driving on the Edge",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Car Surfer",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Stare Them Down",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Expert Driver",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhanced Speed Edge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sharp-Eyed",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Speed",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Something in the Road",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Trick Driver",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "EMERGEDFROMTHEOBELISK": {
+        "name": "emerged from the obelisk",
+        "description": "Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.",
+        "intrusion": "Cyphers and artifacts react unexpectedly in the character's hands.",
+        "abilities": [
+            {
+                "name": "Crystalline Body",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Hover",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Inhabit Crystal",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Immovable",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Crystal Lens",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Resonant Frequency",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Resonant Quake",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Return to the Obelisk",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "EMPLOYSMAGNETISM": {
+        "name": "employs magnetism",
+        "description": "You command metal and the power of magnetism.",
+        "intrusion": "The metal twists, bends, or produces shrapnel. A lapse in concentration might cause something to slip or drop at just the wrong time.",
+        "abilities": [
+            {
+                "name": "Move Metal",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Repel Metal",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Destroy Metal",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Guide Bolt",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Magnetic Field",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Command Metal",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Diamagnetism",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Iron Punch",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "ENTERTAINS": {
+        "name": "entertains",
+        "description": "You perform, mostly for the benefit of others.",
+        "intrusion": "The audience is annoyed or offended. Musical instruments break. Paints dry in their pots. The words to a poem or song are forgotten.",
+        "abilities": [
+            {
+                "name": "Levity",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Inspiration",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Knowledge Skills",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Calm",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Able Assistance",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Master Entertainer",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Vindictive Performance",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "EXISTSINTWOPLACESATONCE": {
+        "name": "exists in two places at once",
+        "description": "You exist in two places at once.",
+        "intrusion": "Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, or confusion.",
+        "abilities": [
+            {
+                "name": "Duplicate",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Share Senses",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Superior Duplicate",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Resilient Duplicate",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Damage Transference",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Coordinated Effort",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Multiplicity",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Resilient Duplicate",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "EXISTSPARTIALLYOUTOFPHASE": {
+        "name": "exists partially out of phase",
+        "description": "A bit translucent, you're slightly out of phase and can move through solid objects.",
+        "intrusion": "The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.",
+        "abilities": [
+            {
+                "name": "Walk Through Walls",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Defensive Phasing",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Phased Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Phase Door",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Ghost",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Untouchable",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Phased Attack",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Phase Foe",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "EXPLORESDARKPLACES": {
+        "name": "explores dark places",
+        "description": "You're the archetypal treasure hunter, scavenger, and finder of lost things.",
+        "intrusion": "Possessions fall out of pockets or bags in the dark; maps get lost; information gained fails to include an important detail.",
+        "abilities": [
+            {
+                "name": "Superb Explorer",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Superb Infiltrator",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Eyes Adjusted",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Nightstrike",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Slippery Customer",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Hard-Won Resilience",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Dark Explorer",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Blinding Attack",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Embraced by Darkness",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "FIGHTSDIRTY": {
+        "name": "fights dirty",
+        "description": "You'll do anything to win a fight: bite, scratch, kick, trick, and worse.",
+        "intrusion": "People look poorly upon those who cheat or fight without honor. Sometimes a dirty trick backfires.",
+        "abilities": [
+            {
+                "name": "Tracker",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Stalker",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Sneak",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Quarry",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Betrayal",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Surprise Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Mind Games",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Capable Warrior",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Using the Environment",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Twisting the Knife",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Murderer",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "FIGHTSWITHPANACHE": {
+        "name": "fights with panache",
+        "description": "You're a swashbuckling daredevil who fights with flamboyant style that's entertaining to watch.",
+        "intrusion": "The display comes off looking silly, clumsy, or unattractive.",
+        "abilities": [
+            {
+                "name": "Attack Flourish",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Quick Block",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Acrobatic Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Flamboyant Boast",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Block for Another",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Fast Kill",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Using the Environment",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Agile Wit",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Return to Sender",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "FLIESFASTERTHANABULLET": {
+        "name": "flies faster than a bullet",
+        "description": "You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?",
+        "intrusion": "A nemesis finds the character. A strange material is found to nullify the character's abilities.",
+        "abilities": [
+            {
+                "name": "Hover",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Hidden Reserves",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "See Through Matter",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Blink of an Eye",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Up to Speed",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Not Dead Yet",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Burning Light",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Ignore Affliction",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "FOCUSESMINDOVERMATTER": {
+        "name": "focuses mind over matter",
+        "description": "You can telekinetically move objects with your mind without physically touching them.",
+        "intrusion": "One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.",
+        "abilities": [
+            {
+                "name": "Divert Attacks",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Telekinesis",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Cloak of Opportunity",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhance Strength",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Apportation",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Psychokinetic Attack",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Improved Apportation",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Reshape",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "FUSESFLESHANDSTEEL": {
+        "name": "fuses flesh and steel",
+        "description": "Your body is part machine.",
+        "intrusion": "People in most societies are afraid of someone who is revealed to have mechanical parts.",
+        "abilities": [
+            {
+                "name": "Enhanced Body",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Interface",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Sensing Package",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Weaponization",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Fusion",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Deep Reserves",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Mind Surge",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Ultra Enhancement",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "FUSESMINDANDMACHINE": {
+        "name": "fuses mind and machine",
+        "description": "Electronic aids implanted in your brain make you a mental powerhouse.",
+        "intrusion": "Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don't trust a person who isn't fully organic.",
+        "abilities": [
+            {
+                "name": "Enhanced Intellect",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Knowledge Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Network Tap",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Action Processor",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Machine Telepathy",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Intellect",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Knowledge Skills",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "See the Future",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Machine Enhancement",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Mind Surge",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "GROWSTOTOWERINGHEIGHTS": {
+        "name": "grows to towering heights",
+        "description": "For brief periods, you can grow larger and, with enough experience, to towering heights.",
+        "intrusion": "Rapid growth knocks over furnishings or smashes through ceilings or hanging lights. An enlarged character breaks through the floor.",
+        "abilities": [
+            {
+                "name": "Enlarge",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Freakishly Large",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Bigger",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Advantages of Being Big",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Huge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Throw",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Grab",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Gargantuan",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Colossal",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "HASATHOUSANDFACES": {
+        "name": "has a thousand faces",
+        "description": "You can change your appearance to look like anyone else.",
+        "intrusion": "Part of the disguise slips. An NPC thinks the disguised character is someone they know very well.",
+        "abilities": [
+            {
+                "name": "Face Morph",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Interaction Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Body Morph",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "War Flesh",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Disguise Other",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Resilience",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Ageless",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Think Your Way Out",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Memory Becomes Action",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Divide Your Mind",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Infer Thoughts",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "HELPSTHEIRFRIENDS": {
+        "name": "helps their friends",
+        "description": "You love your friends and help them out of any difficulty, no matter what.",
+        "intrusion": "Others sometimes have ulterior motives. The law takes an undue interest. Even when everything goes right, repercussions follow.",
+        "abilities": [
+            {
+                "name": "Advice From a Friend",
+                "tier": 1,
+                "preselected": false
+            },
+            {
+                "name": "Friendly Help",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Courageous",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Weather the Vicissitudes",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Buddy System",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "In Harm's Way",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Physique",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Inspire Action",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Deep Consideration",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "HOWLSATTHEMOON": {
+        "name": "howls at the moon",
+        "description": "For brief periods, you become a fearsome and powerful creature with control issues.",
+        "intrusion": "The change happens in an uncontrolled fashion. People are terrified of monsters.",
+        "abilities": [
+            {
+                "name": "Beast Form",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Controlled Change",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Bigger Beast Form",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Beast Form",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Controlled Change",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Beast Form",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Perfect Control",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "HUNTS": {
+        "name": "hunts",
+        "description": "You are a stalking hunter who excels at bringing down your selected quarry.",
+        "intrusion": "The quarry notices the character. The quarry isn't as vulnerable as it seemed.",
+        "abilities": [
+            {
+                "name": "Attack Flourish",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Tracker",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Quarry",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Sneak",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Horde Fighting",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sprint and Grab",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Surprise Attack",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Hunter's Drive",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Skill With Attacks",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Multiple Quarry",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "IGNORESPHYSICALDISTANCE": {
+        "name": "ignores physical distance",
+        "description": "You can teleport from one place to another by briefly passing through a parallel dimension.",
+        "intrusion": "A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.",
+        "abilities": [
+            {
+                "name": "Dimensional Squeeze",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Opportunist",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Defensive Blinking",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Teleportation Burst",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Short Teleportation",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Medium Teleportation",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Teleportation",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Teleportive Wound",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "INFILTRATES": {
+        "name": "infiltrates",
+        "description": "Subtlety, guile, and stealth allow you to get in where others can't.",
+        "intrusion": "Spies are treated harshly when caught. Allies disavow infiltrators who get caught. Some secrets are better left unknown.",
+        "abilities": [
+            {
+                "name": "Stealth Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Sense Attitudes",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Impersonate",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Flight Not Fight",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Awareness",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Invisibility",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Evasion",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Brainwashing",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Spring Away",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "INTERPRETSTHELAW": {
+        "name": "interprets the law",
+        "description": "You excel at winning others over to your views.",
+        "intrusion": "Onlookers react badly to a know-it-all. A distraction or interruption throws the character's argument off the rails.",
+        "abilities": [
+            {
+                "name": "Opening Statement",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Knowledge of the Law",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Debate",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Able Assistance",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhanced Intellect Edge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Castigate",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "No One Knows Better",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Legal Intern",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "ISIDOLIZEDBYMILLIONS": {
+        "name": "is idolized by millions",
+        "description": "You're a celebrity and most people adore you.",
+        "intrusion": "Fans are endangered or hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, or other event is canceled. The media posts photos of you in an embarrassing situation.",
+        "abilities": [
+            {
+                "name": "Entourage",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Celebrity Talent",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Perks of Stardom",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Incredible Health",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Captivate With Starshine",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Expert Follower",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Do You Know Who I Am?",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Transcend the Script",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Improved Companion",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "ISLICENSEDTOCARRY": {
+        "name": "is licensed to carry",
+        "description": "You carry a gun and you know how to use it in a fight.",
+        "intrusion": "Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.",
+        "abilities": [
+            {
+                "name": "Gunner",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Practiced With Guns",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Careful Shot",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Trained Gunner",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Damage Dealer",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Snap Shot",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Arc Spray",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Special Shot",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "ISWANTEDBYTHELAW": {
+        "name": "is wanted by the law",
+        "description": "\"WANTED, DEAD OR ALIVE\" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control or you actually would kill someone just for looking at you.",
+        "intrusion": "Most people do not take well to discovering a wanted outlaw in their midst.",
+        "abilities": [
+            {
+                "name": "Enhanced Speed",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Danger Sense",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Surprise Attack",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Outlaw Reputation",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Successive Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Fast Kill",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Band of Desperados",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Not Dead Yet",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "KEEPSAMAGICALLY": {
+        "name": "keeps a magic ally",
+        "description": "An allied magic creature bound to an object (such as a minor djinn in a lamp, or a ghost in a pipe) is your friend, protector, and weapon.",
+        "intrusion": "The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn't do as asked. The creature says it's leaving unless a task is performed for it.",
+        "abilities": [
+            {
+                "name": "Bound Magic Creature",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Object Bond",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Hidden Closet",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Minor Wish",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Mount",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Improved Object Bond",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Moderate Wish",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Object Bond Mastery",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Trust to Luck",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "LEADS": {
+        "name": "leads",
+        "description": "Your natural leadership capability allows you to command others, including a loyal band of followers.",
+        "intrusion": "Followers fail, betray, lie, become corrupted, get kidnapped, or die.",
+        "abilities": [
+            {
+                "name": "Natural Charisma",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Good Advice",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Potential",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Basic Follower",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Advanced Command",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Expert Follower",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Captivate or Inspire",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Band of Followers",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Mind of a Leader",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "LEARNSQUICKLY": {
+        "name": "learns quickly",
+        "description": "You deal with bad situations as they arise, learning new lessons each time.",
+        "intrusion": "Accidents and mistakes are great teachers.",
+        "abilities": [
+            {
+                "name": "Enhanced Intellect",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "There's Your Problem",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Quick Study",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Hard to Distract",
+                "tier": 3,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Intellect Edge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Flex Skill",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Pay It Forward",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Intellect",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Learned a Few Things",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Two Things at Once",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "LIVESINTHEWILDERNESS": {
+        "name": "lives in the wilderness",
+        "description": "You can survive in badlands where others perish.",
+        "intrusion": "People in cities and towns sometimes disparage those who look (and smell) like they live in the wilds, as if they were ignorant or barbaric.",
+        "abilities": [
+            {
+                "name": "Wilderness Life",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Might",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Living Off the Land",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Wilderness Explorer",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Animal Senses and Sensibilities",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Wilderness Encouragement",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Wilderness Awareness",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "The Wild Is on Your Side",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "One With the Wild",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Wild Camouflage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "LOOKSFORTROUBLE": {
+        "name": "looks for trouble",
+        "description": "You're a scrapper and love a good fight.",
+        "intrusion": "Weapons break or fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling or collapsing.",
+        "abilities": [
+            {
+                "name": "Fists of Fury",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Wound Tender",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Protector",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Straightforward",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Knock Out",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Mastery With Attacks",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Might",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "LOVESTHEVOID": {
+        "name": "loves the void",
+        "description": "When it's just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.",
+        "intrusion": "Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.",
+        "abilities": [
+            {
+                "name": "Have Spacesuit, Will Travel",
+                "tier": 1,
+                "preselected": false
+            },
+            {
+                "name": "Vacuum Skilled",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Microgravity Adept",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Speed Edge",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Physique",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Space Fighting",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Fusion Armor",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Silent As Space",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Push Off and Throw",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Microgravity Avoidance",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Weightless Shot",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Reactive Field",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MASTERSDEFENSE": {
+        "name": "masters defense",
+        "description": "You use protective equipment and practiced techniques to avoid becoming hurt in a fight.",
+        "intrusion": "Shields break when hit, as do weapons used to parry. Armor straps break.",
+        "abilities": [
+            {
+                "name": "Shield Master",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Sturdy",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Practiced in Armor",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Dodge and Resist",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Dodge and Respond",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Tower of Will",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Experienced in Armor",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Nothing but Defend",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Defense Master",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Wear It Well",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MASTERSSPELLS": {
+        "name": "masters spells",
+        "description": "By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.",
+        "intrusion": "The spell goes wrong. The summoned creature turns on the caster. A rival spellcaster is drawn to the magic use.",
+        "abilities": [
+            {
+                "name": "Arcane Flare",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Ray of Confusion",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Fire Bloom",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Summon Giant Spider",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Soul Interrogation",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Granite Wall",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Summon Demon",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Word of Death",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MASTERSTHESWARM": {
+        "name": "masters the swarm",
+        "description": "Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.",
+        "intrusion": "A command is misunderstood. Control is erratic or is lost. Bites and stings are not uncommon for masters of the swarm.",
+        "abilities": [
+            {
+                "name": "Influence Swarm",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Control Swarm",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Living Armor",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Call Swarm",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Gain Unusual Companion",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Deadly Swarm",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MASTERSWEAPONRY": {
+        "name": "masters weaponry",
+        "description": "You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, or something else.",
+        "intrusion": "Weapons break. Weapons can be stolen. Weapons can be dropped or forced out of your hand.",
+        "abilities": [
+            {
+                "name": "Weapon Master",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Weapon Crafter",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Weapon Defense",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Rapid Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Disarming Strike",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Never Fumble",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Extreme Mastery",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Murderer",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Deadly Strike",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "METESOUTJUSTICE": {
+        "name": "metes out justice",
+        "description": "You right wrongs, protect the innocent, and punish the guilty.",
+        "intrusion": "Guilt or innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.",
+        "abilities": [
+            {
+                "name": "Make Judgment",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Designation",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Defend the Innocent",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Improved Designation",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Defend All the Innocent",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Punish the Guilty",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Find the Guilty",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Designation",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Punish All the Guilty",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Damn the Guilty",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Inspire the Innocent",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MOVESLIKEACAT": {
+        "name": "moves like a cat",
+        "description": "Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.",
+        "intrusion": "Even a cat can be clumsy. A jump isn't quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm's way.",
+        "abilities": [
+            {
+                "name": "Greater Enhanced Speed",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Balance",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Movement Skills",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Safe Fall",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Hard to Hit",
+                "tier": 3,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Speed Edge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Speed",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Quick Strike",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Slippery",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Perfect Speed Burst",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Speed",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MOVESLIKETHEWIND": {
+        "name": "moves like the wind",
+        "description": "You can move so fast that you become a blur.",
+        "intrusion": "Surfaces can be slick or offer hidden obstacles. The movement of other creatures can be unpredictable, and the character might run into them.",
+        "abilities": [
+            {
+                "name": "Greater Enhanced Speed",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Fleet of Foot",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Hard to Hit",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Speed Burst",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Speed",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Blink of an Eye",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Hard to See",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Perfect Speed Burst",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Incredible Running Speed",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "MURDERS": {
+        "name": "murders",
+        "description": "You're an assassin, whether by trade, by inclination, or because it was that or be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)",
+        "intrusion": "Most people do not react well to a professional killer.",
+        "abilities": [
+            {
+                "name": "Surprise Attack",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Assassin Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Quick Death",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Infiltrator",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Awareness",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Poison Crafter",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Better Surprise Attack",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Damage Dealer",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Escape Plan",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Murderer",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "NEEDSNOWEAPON": {
+        "name": "needs no weapon",
+        "description": "Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.",
+        "intrusion": "Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off balance.",
+        "abilities": [
+            {
+                "name": "Fists of Fury",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Flesh of Stone",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Advantage to Disadvantage",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Unarmed Fighting Style",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Moving Like Water",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Divert Attacks",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Stun Attack",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Master of Unarmed Fighting Style",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "NEVERSAYSDIE": {
+        "name": "never says die",
+        "description": "You never quit, can shrug off a beating, and always come back for more.",
+        "intrusion": "Sometimes, it's equipment or weapons that give out.",
+        "abilities": [
+            {
+                "name": "Improved Recovery",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Push on Through",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Ignore the Pain",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Blood Fever",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Hidden Reserves",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Increasing Determination",
+                "tier": 4,
+                "preselected": false
+            },
+            {
+                "name": "Outlast the Foe",
+                "tier": 4,
+                "preselected": false
+            },
+            {
+                "name": "Not Dead Yet",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Final Defiance",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Ignore Affliction",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "OPERATESUNDERCOVER": {
+        "name": "operates undercover",
+        "description": "Under the guise of someone else, you seek to find answers the powerful do not want divulged.",
+        "intrusion": "Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.",
+        "abilities": [
+            {
+                "name": "Investigate",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Disguise",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Agent Provocateur",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Run and Fight",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Pull a Fast One",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Using What's Available",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Trust to Luck",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Deadly Strike",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "PERFORMSFEATSOFSTRENGTH": {
+        "name": "performs feats of strength",
+        "description": "A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.",
+        "intrusion": "It's easy to break delicate things or hurt someone accidentally.",
+        "abilities": [
+            {
+                "name": "Athlete",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Might Edge",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Feat of Strength",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Iron Fist",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Throw",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Might",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Brute Strike",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Might",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Jump Attack",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "PILOTSSTARCRAFT": {
+        "name": "pilots starcraft",
+        "description": "You're a crack starship pilot.",
+        "intrusion": "Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.",
+        "abilities": [
+            {
+                "name": "Pilot",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Flex Lore",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Salvage and Comfort",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Mentally Tough",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Expert Pilot",
+                "tier": 3,
+                "preselected": true
+            },
+            {
+                "name": "Ship Footing",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Machine Companion",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sensor Array",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Speed",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Like the Back of Your Hand",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Incomparable Pilot",
+                "tier": 6,
+                "preselected": true
+            },
+            {
+                "name": "Remote Control",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "PLAYSTOOMANYGAMES": {
+        "name": "plays too many games",
+        "description": "Lessons, reflexes, and strategies you've learned by playing too many games have applications in the real world, where people who don't play enough toil and live their dreary lives.",
+        "intrusion": "Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.",
+        "abilities": [
+            {
+                "name": "Game Lessons",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Gamer",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Zero Dark Eyes",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Resist Tricks",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Sniper's Aim",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhanced Speed Edge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Mind Games",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Intellect",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Gamer's Fortitude",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Mind Surge",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Gaming God",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "RAGES": {
+        "name": "rages",
+        "description": "When you go berserk, everyone fears you.",
+        "intrusion": "It's easy for a berserker to lose control and attack friend as well as foe.",
+        "abilities": [
+            {
+                "name": "Frenzy",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Might",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Movement Skills",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Power Strike",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Unarmored Fighter",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Frenzy",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Attack and Attack Again",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "RIDESTHELIGHTNING": {
+        "name": "rides the lightning",
+        "description": "You create and discharge electrical power.",
+        "intrusion": "Targets other than those intended are shocked. Objects explode.",
+        "abilities": [
+            {
+                "name": "Shock",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Charge",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Bolt Rider",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Electric Armor",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Drain Charge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Bolts of Power",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Electrical Flight",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Flash Across the Miles",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Wall of Lightning",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "RUNSAWAY": {
+        "name": "runs away",
+        "description": "Your first instinct is to run from danger, and you've gotten very good at it.",
+        "intrusion": "Quick movements sometimes lead to dropped items, slipping on uneven ground, or going the wrong way by accident.",
+        "abilities": [
+            {
+                "name": "Go Defensive",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Enhanced Speed",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Quick to Flee",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Incredible Running Speed",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Speed",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Increasing Determination",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Quick Wits",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Go to Ground",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Burst of Escape",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SAILEDBENEATHTHEJOLLYROGER": {
+        "name": "sailed beneath the jolly roger",
+        "description": "You sailed with a crew of dread pirates, but you've decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?",
+        "intrusion": "The dangers of the high seas are many, including severe storms and disease. Other pirates sometimes get ahead through betrayal. A pirate tracks down former sailing mates to find hidden treasure.",
+        "abilities": [
+            {
+                "name": "Ignore the Pain",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Sailor",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Taking Advantage",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Fearsome Reputation",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sea Legs",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Movement Skills",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Lost in the Chaos",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Duel to the Death",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Successive Attack",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SCAVENGES": {
+        "name": "scavenges",
+        "description": "When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.",
+        "intrusion": "An item made with recycled junk breaks. Someone shows up claiming that the useful item or piece of junk scavenged belongs to them. A recycled cypher explodes.",
+        "abilities": [
+            {
+                "name": "Post-Apocalyptic Survivor",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Ruin Lore",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Junkmonger",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Taking Advantage",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Incredible Health",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Know Where to Look",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Recycled Cyphers",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Artifact Scavenger",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Reactive Field",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SCULPTSHARDLIGHT": {
+        "name": "sculpts hard light",
+        "description": "You create physical objects out of hard light that you can use for offense and defense.",
+        "intrusion": "A hard light object disappears early. A hard light object cannot affect a certain creature or color.",
+        "abilities": [
+            {
+                "name": "Automatic Glow",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Temporary Light",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Entangling Force",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Harder Light",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sculpt Light",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Intellect",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Improved Sculpt Light",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Defensive Field",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Flight",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SEESBEYOND": {
+        "name": "sees beyond",
+        "description": "You have a psychic sense that allows you to see what others cannot.",
+        "intrusion": "Some secrets are too terrible to know.",
+        "abilities": [
+            {
+                "name": "See the Unseen",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "See Through Matter",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Find the Hidden",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sensor",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Remote Viewing",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "See Through Time",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Mental Projection",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Total Awareness",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SEPARATESMINDFROMBODY": {
+        "name": "separates mind from body",
+        "description": "You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.",
+        "intrusion": "Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.",
+        "abilities": [
+            {
+                "name": "Third Eye",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Open Mind",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Sharp Senses",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Roaming Third Eye",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Find the Hidden",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Sensor",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Psychic Passenger",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Mental Projection",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Improved Sensor",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SHEPHERDSSPIRITS": {
+        "name": "shepherds spirits",
+        "description": "Wandering souls, nature spirits, and elemental beings aid and support you.",
+        "intrusion": "Some people don't trust those who deal with spirits. The dead sometimes don't want shepherding.",
+        "abilities": [
+            {
+                "name": "Question the Spirits",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Spirit Accomplice",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Command Spirit",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Preternatural Senses",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Wraith Cloak",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Call Dead Spirit",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Call Otherworldly Spirit",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Infuse Spirit",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SHEPHERDSTHECOMMUNITY": {
+        "name": "shepherds the community",
+        "description": "You keep the place where you live safe from all danger.",
+        "intrusion": "People in the community misunderstand the character's motives. Rivals try to oust the character.",
+        "abilities": [
+            {
+                "name": "Community Knowledge",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Community Activist",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Shepherd's Fury",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Evasion",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Skill With Attacks",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Protective Wall",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SHREDSTHEWALLSOFTHEWORLD": {
+        "name": "shreds the walls of the world",
+        "description": "Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.",
+        "intrusion": "Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.",
+        "abilities": [
+            {
+                "name": "Phase Sprint",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Disrupting Touch",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Scratch Existence",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Invisible Phasing",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Walk Through Walls",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Phase Detonation",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Very Long Sprinting",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Shred Existence",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Untouchable While Moving",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SHRINKSTOMINUTESIZE": {
+        "name": "shrinks to minute size",
+        "description": "You can shrink down to the size of a bug and, with enough experience, even smaller. (A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.)",
+        "intrusion": "A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.",
+        "abilities": [
+            {
+                "name": "Shrink",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Beneath Notice",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Smaller",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Advantages of Being Small",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Enlarge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Quick Switch",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Small Flight",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Shrink Others",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Bigger",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Tiny",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SIPHONSPOWER": {
+        "name": "siphons power",
+        "description": "You suck power out of machines and creatures alike in order to empower yourself.",
+        "intrusion": "Drained power also transmits something unwanted-compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.",
+        "abilities": [
+            {
+                "name": "Drain Machine",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Drain Creature",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Drain at a Distance",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Unraveling Consumption",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Store Energy",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Share the Power",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Explosive Release",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Sun Siphon",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SLAYSMONSTERS": {
+        "name": "slays monsters",
+        "description": "You kill monsters.",
+        "intrusion": "The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster's mother vows revenge.",
+        "abilities": [
+            {
+                "name": "Practiced With Swords",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Monster Bane",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Monster Lore",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Will of Legend",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Trained Slayer",
+                "tier": 3,
+                "preselected": true
+            },
+            {
+                "name": "Improved Monster Bane",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Misdirect",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Fight On",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Skill With Attacks",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Murderer",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Heroic Monster Bane",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SOARSONAMAZINGWINGS": {
+        "name": "soars on amazing wings",
+        "description": "Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.",
+        "intrusion": "A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.",
+        "abilities": [
+            {
+                "name": "Hover",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Flight Exertion",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Wing Weapons",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Acrobatic Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Flying Companion",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Hard to Hit",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Up to Speed",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Hard Target",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Defense Master",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SOLVESMYSTERIES": {
+        "name": "solves mysteries",
+        "description": "You're a master of deduction, using evidence to find the answer.",
+        "intrusion": "Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.",
+        "abilities": [
+            {
+                "name": "Investigator",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Sleuth",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Out of Harm's Way",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "You Studied",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Draw Conclusion",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Defuse Situation",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Seize the Initiative",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Greater Skill With Defense",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "SPEAKSFORTHELAND": {
+        "name": "speaks for the land",
+        "description": "Your spiritual connection to nature and the environment grants you mystical abilities.",
+        "intrusion": "An injured natural (but dangerous) creature is discovered. Someone's poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.",
+        "abilities": [
+            {
+                "name": "Seeds of Fury",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Wilderness Lore",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Grasping Foliage",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Soothe the Savage",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Communication",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Moon Shape",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Insect Eruption",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Call the Storm",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Earthquake",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "STANDSLIKEABASTION": {
+        "name": "stands like a bastion",
+        "description": "Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.",
+        "intrusion": "Armor is damaged. Small foes conspire in ingenious ways.",
+        "abilities": [
+            {
+                "name": "Practiced in Armor",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Experienced Defender",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Resist the Elements",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Unmovable",
+                "tier": 3,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Might",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Practiced With All Weapons",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Living Wall",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Hardiness",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Mastery in Armor",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Shield Training",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "STRETCHES": {
+        "name": "stretches",
+        "description": "Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.",
+        "intrusion": "An attack or effect interferes with the character's elasticity. A stretched limb becomes overstressed and weak.",
+        "abilities": [
+            {
+                "name": "Contortionist",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Far Step",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Elastic Grip",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Safe Fall",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Bypass Barrier",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Misdirect",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Resilience",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Free to Move",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Break the Ranks",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Not Dead Yet",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "TAKESANIMALSHAPE": {
+        "name": "takes animal shape",
+        "description": "A shapechanger who can take the form of various animals.",
+        "intrusion": "The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.",
+        "abilities": [
+            {
+                "name": "Animal Shape",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Communication",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Soothe the Savage",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Bigger Animal Shape",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Greater Beast Form",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Animal Scrying",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Hard to Kill",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Blurring Speed",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lend Animal Shape",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "TALKSTOMACHINES": {
+        "name": "talks to machines",
+        "description": "You use your organic brain like a computer, interfacing \"wirelessly\" with any electronic device. You can control and influence them in ways that others can't.",
+        "intrusion": "The machine malfunctions or acts unpredictably.",
+        "abilities": [
+            {
+                "name": "Machine Affinity",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Distant Interface",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Coaxing Power",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Charm Machine",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Intelligent Interface",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Command Machine",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Machine Companion",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Robot Fighter",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Information Gathering",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Control Machine",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Improved Machine Companion",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "THROWSWITHDEADLYACCURACY": {
+        "name": "throws with deadly accuracy",
+        "description": "Everything that leaves your hand goes exactly where you'd like it to go and at the range and speed to make the perfect impact.",
+        "intrusion": "Missed attacks strike the wrong target. Ricochets can be dangerous. Improvised weapons break.",
+        "abilities": [
+            {
+                "name": "Precision",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Careful Aim",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Quick Throw",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Defense",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Everything Is a Weapon",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Specialized Throwing",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Whirlwind of Throws",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Lethal Damage",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Mastery With Defense",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "THUNDERS": {
+        "name": "thunders",
+        "description": "You emit destructive sound and manipulate soundscapes.",
+        "intrusion": "Loud noises attract attention.",
+        "abilities": [
+            {
+                "name": "Thunder Beam",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Sound Conversion Barrier",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Nullify Sound",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Echolocation",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Shattering Shout",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Subsonic Rumble",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Amplify Sounds",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Earthquake",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Lethal Vibration",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "TOUCHESTHESKY": {
+        "name": "touches the sky",
+        "description": "You can summon storms or break them apart.",
+        "intrusion": "An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.",
+        "abilities": [
+            {
+                "name": "Hover",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Wind Armor",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Bolts of Power",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Storm Seed",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Windrider",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Cold Burst",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Control Weather",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Wind Chariot",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "TRAVELSTHROUGHTIME": {
+        "name": "travels through time",
+        "description": "You can see through time, try to reach through it, and eventually even travel through it.",
+        "intrusion": "Paradoxes are created. Others remember past events differently.",
+        "abilities": [
+            {
+                "name": "Anticipation",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "See History",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Temporal Acceleration",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Time Loop",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Temporal Dislocation",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Time Doppelganger",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Call Through Time",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Time Travel",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "USESWILDMAGIC": {
+        "name": "uses wild magic",
+        "description": "spellcaster who learns a variety of spells instead of focusing on just one kind of magic.",
+        "intrusion": "A spell performs erratically or rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature or potential rival. The cypher spell being cast is replaced with that of a random cypher.",
+        "abilities": [
+            {
+                "name": "Magical Repertoire",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Cypher Casting",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Expanded Repertoire",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Cypher Surge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Faster Wild Magic",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Expanded Repertoire",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Magical Training",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Maximize Cypher",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Wild Insight",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WALKSTHEWILDWOODS": {
+        "name": "walks the wild woods",
+        "description": "An adherent of nature magic who draws on the power and strength of trees.",
+        "intrusion": "A wooden character catches fire. A wild swing from a tree branch hits or trips an ally. Some trees have evil hearts and hate all walking things.",
+        "abilities": [
+            {
+                "name": "Wilderness Life",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Patient Recovery",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Wooden Body",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Tree Companion",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Wilderness Awareness",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Tree Travel",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Great Tree",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Dreadwood",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Restorative Bloom",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WASFORETOLD": {
+        "name": "was foretold",
+        "description": "You are the \"chosen one,\" and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.",
+        "intrusion": "An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.",
+        "abilities": [
+            {
+                "name": "Interaction Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Knowing",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Destined for Greatness",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Overcome All Obstacles",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Hard-Won Resilience",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Center of Attention",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Show Them the Way",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "As Foretold in Prophecy",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WEARSASHEENOFICE": {
+        "name": "wears a sheen of ice",
+        "description": "You command the wintery power of cold and ice.",
+        "intrusion": "Ice makes surfaces slippery. Extreme cold causes objects to crack and break.",
+        "abilities": [
+            {
+                "name": "Ice Armor",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Frost Touch",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Freezing Touch",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Ice Creation",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Resilient Ice Armor",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Cold Burst",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Ice Storm",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Winter Gauntlets",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WEARSPOWERARMOR": {
+        "name": "wears power armor",
+        "description": "Tier 1: Powered Armor",
+        "intrusion": "The armor won't come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.",
+        "abilities": [
+            {
+                "name": "Enhanced Might",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Heads-Up Display",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Fusion Armor",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Incredible Health",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Force Blast",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Field-Reinforced Armor",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Masterful Armor Modification",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Masterful Armor Modification",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WIELDSANENCHANTEDWEAPON": {
+        "name": "wields an enchanted weapon",
+        "description": "You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.",
+        "intrusion": "A weapon breaks or is dropped. The character loses their connection to the weapon until they use an action to reestablish the attunement. The weapon's energy discharges in an unexpected way.",
+        "abilities": [
+            {
+                "name": "Enchanted Weapon",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Innate Power",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Charge Weapon",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Power Crash",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Rapid Attack",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Throw Enchanted Weapon",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Defending Weapon",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Enchanted Movement",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Deadly Strike",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Spin Attack",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WIELDSINVISIBLEFORCE": {
+        "name": "wields invisible force",
+        "description": "You bend light and manipulate beams of force for offense and defense.",
+        "intrusion": "Invisibility partially fades, revealing the character's presence. A force field is pierced by an unusual or unexpected attack.",
+        "abilities": [
+            {
+                "name": "Vanish",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Entangling Force",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Sharp Senses",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Force Field Barrier",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Multi-Vanish",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Invisibility",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Defensive Field",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Concussion",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Generate Force Field",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WIELDSTWOWEAPONSATONCE": {
+        "name": "wields two weapons at once",
+        "description": "You bear steel with both hands, ready to take on any foe.",
+        "intrusion": "A blade snaps in two or a weapon flies loose from its bearer's grip.",
+        "abilities": [
+            {
+                "name": "Dual Light Wield",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Double Strike",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Infiltrator",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Dual Medium Wield",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Precise Cut",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Dual Defense",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Dual Distraction",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Disarming Attack",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Spin Attack",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WORKSFORALIVING": {
+        "name": "works for a living",
+        "description": "You take great satisfaction in a job well done, whether it's coding, building houses, or mining asteroids.",
+        "intrusion": "Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.",
+        "abilities": [
+            {
+                "name": "Handy",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Muscles of Iron",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Eye for Detail",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Improvise",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Enhanced Might",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Tough It Out",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Expert Skill",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Hard-Won Resilience",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WORKSMIRACLES": {
+        "name": "works miracles",
+        "description": "You can heal others with a touch, alter time to help others, and are generally beloved by everyone.",
+        "intrusion": "Attempts to heal might cause harm instead. A community or individual needs a healer so desperately that they hold one against their will.",
+        "abilities": [
+            {
+                "name": "Healing Touch",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Alleviate",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Font of Healing",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Miraculous Health",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Inspire Action",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Undo",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Greater Healing Touch",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Restore Life",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WORKSTHEBACKALLEYS": {
+        "name": "works the back alleys",
+        "description": "You make your way unseen, stealing from the wealthy to achieve your ends.",
+        "intrusion": "Thieves are thrown in jail. Powerful enemies are made.",
+        "abilities": [
+            {
+                "name": "Stealth Skills",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Underworld Contacts",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Pull a Fast One",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Guild Training",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Master Thief",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Dirty Fighter",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Alley Rat",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "All-Out Con",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WORKSTHESYSTEM": {
+        "name": "works the system",
+        "description": "You can exploit flaws in artificial systems, including but not limited to computer code.",
+        "intrusion": "Contacts sometimes have ulterior motives. Devices sometimes have failsafes or even traps.",
+        "abilities": [
+            {
+                "name": "Hack the Impossible",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Computer Programming",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Connected",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Confidence Artist",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Skill With Attacks",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Confuse Enemy",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Work the Friendship",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Call in Favor",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Greater Enhanced Potential",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    },
+    "WOULDRATHERBEREADING": {
+        "name": "would rather be reading",
+        "description": "Books are your friends. What's more important than knowledge? Nothing.",
+        "intrusion": "Books burn, get wet, or get lost. Computers break or lose power. Glasses break.",
+        "abilities": [
+            {
+                "name": "Knowledge Is Power",
+                "tier": 1,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Intellect",
+                "tier": 2,
+                "preselected": true
+            },
+            {
+                "name": "Applying Your Knowledge",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Flex Skill",
+                "tier": 3,
+                "preselected": false
+            },
+            {
+                "name": "Knowledge Is Power",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Knowing the Unknown",
+                "tier": 4,
+                "preselected": true
+            },
+            {
+                "name": "Greater Enhanced Intellect",
+                "tier": 5,
+                "preselected": true
+            },
+            {
+                "name": "Knowledge Is Power",
+                "tier": 6,
+                "preselected": true
+            },
+            {
+                "name": "Tower of Intellect",
+                "tier": 6,
+                "preselected": false
+            },
+            {
+                "name": "Read the Signs",
+                "tier": 6,
+                "preselected": false
+            }
+        ]
+    }
+}
