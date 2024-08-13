@@ -1,4 +1,9 @@
----,aliases:,- shepherds the community,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- shepherds the community
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You keep the place where you live safe from all danger.
  ### Intrusion

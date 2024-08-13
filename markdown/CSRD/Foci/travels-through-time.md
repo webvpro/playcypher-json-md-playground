@@ -1,4 +1,9 @@
----,aliases:,- travels through time,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- travels through time
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can see through time, try to reach through it, and eventually even travel through it.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- exists partially out of phase,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- exists partially out of phase
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 A bit translucent, you're slightly out of phase and can move through solid objects.
  ### Intrusion

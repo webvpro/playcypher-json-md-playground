@@ -1,4 +1,9 @@
----,aliases:,- controls beasts,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- controls beasts
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your ability to communicate and lead beasts is uncanny.
  ### Intrusion

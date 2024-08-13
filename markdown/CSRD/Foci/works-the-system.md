@@ -1,4 +1,9 @@
----,aliases:,- works the system,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- works the system
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can exploit flaws in artificial systems, including but not limited to computer code.
  ### Intrusion

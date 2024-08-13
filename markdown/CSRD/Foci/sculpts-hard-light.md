@@ -1,4 +1,9 @@
----,aliases:,- sculpts hard light,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- sculpts hard light
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You create physical objects out of hard light that you can use for offense and defense.
  ### Intrusion

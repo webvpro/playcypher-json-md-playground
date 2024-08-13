@@ -1,4 +1,9 @@
----,aliases:,- abides in stone,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- abides in stone
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.
  ### Intrusion

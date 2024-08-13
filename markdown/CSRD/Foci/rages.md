@@ -1,4 +1,9 @@
----,aliases:,- rages,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- rages
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 When you go berserk, everyone fears you.
  ### Intrusion

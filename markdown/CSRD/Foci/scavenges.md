@@ -1,4 +1,9 @@
----,aliases:,- scavenges,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- scavenges
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.
  ### Intrusion

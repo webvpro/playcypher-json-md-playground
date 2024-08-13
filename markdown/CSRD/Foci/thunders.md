@@ -1,4 +1,9 @@
----,aliases:,- thunders,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- thunders
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You emit destructive sound and manipulate soundscapes.
  ### Intrusion

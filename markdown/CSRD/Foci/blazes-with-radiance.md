@@ -1,4 +1,9 @@
----,aliases:,- blazes with radiance,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- blazes with radiance
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can create light, sculpt it, bend it away from you, or gather it to use as a weapon.
  ### Intrusion

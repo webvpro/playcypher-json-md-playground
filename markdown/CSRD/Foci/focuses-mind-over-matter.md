@@ -1,4 +1,9 @@
----,aliases:,- focuses mind over matter,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- focuses mind over matter
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can telekinetically move objects with your mind without physically touching them.
  ### Intrusion

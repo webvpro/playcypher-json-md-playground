@@ -1,4 +1,9 @@
----,aliases:,- runs away,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- runs away
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your first instinct is to run from danger, and you've gotten very good at it.
  ### Intrusion

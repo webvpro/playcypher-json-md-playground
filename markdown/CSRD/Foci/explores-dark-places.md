@@ -1,4 +1,9 @@
----,aliases:,- explores dark places,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- explores dark places
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're the archetypal treasure hunter, scavenger, and finder of lost things.
  ### Intrusion

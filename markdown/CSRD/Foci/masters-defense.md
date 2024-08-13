@@ -1,4 +1,9 @@
----,aliases:,- masters defense,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- masters defense
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You use protective equipment and practiced techniques to avoid becoming hurt in a fight.
  ### Intrusion

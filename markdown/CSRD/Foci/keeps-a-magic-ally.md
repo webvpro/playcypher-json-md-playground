@@ -1,4 +1,9 @@
----,aliases:,- keeps a magic ally,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- keeps a magic ally
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 An allied magic creature bound to an object (such as a minor djinn in a lamp, or a ghost in a pipe) is your friend, protector, and weapon.
  ### Intrusion

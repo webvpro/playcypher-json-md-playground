@@ -1,4 +1,9 @@
----,aliases:,- masters spells,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- masters spells
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.
  ### Intrusion

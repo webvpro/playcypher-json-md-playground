@@ -1,4 +1,9 @@
----,aliases:,- wields invisible force,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- wields invisible force
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You bend light and manipulate beams of force for offense and defense.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- needs no weapon,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- needs no weapon
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.
  ### Intrusion

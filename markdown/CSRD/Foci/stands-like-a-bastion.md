@@ -1,4 +1,9 @@
----,aliases:,- stands like a bastion,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- stands like a bastion
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- fuses flesh and steel,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- fuses flesh and steel
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your body is part machine.
  ### Intrusion

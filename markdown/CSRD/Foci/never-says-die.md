@@ -1,4 +1,9 @@
----,aliases:,- never says die,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- never says die
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You never quit, can shrug off a beating, and always come back for more.
  ### Intrusion

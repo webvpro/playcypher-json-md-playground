@@ -1,4 +1,9 @@
----,aliases:,- defends the weak,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- defends the weak
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You stand up for the helpless, the weak, and the unprotected.
  ### Intrusion

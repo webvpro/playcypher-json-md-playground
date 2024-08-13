@@ -1,4 +1,9 @@
----,aliases:,- murders,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- murders
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're an assassin, whether by trade, by inclination, or because it was that or be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- hunts,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- hunts
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You are a stalking hunter who excels at bringing down your selected quarry.
  ### Intrusion

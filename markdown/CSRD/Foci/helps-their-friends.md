@@ -1,4 +1,9 @@
----,aliases:,- helps their friends,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- helps their friends
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You love your friends and help them out of any difficulty, no matter what.
  ### Intrusion

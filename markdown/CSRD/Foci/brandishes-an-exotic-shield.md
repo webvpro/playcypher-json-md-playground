@@ -1,4 +1,9 @@
----,aliases:,- brandishes an exotic shield,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- brandishes an exotic shield
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You deploy an amazing shield of pure force that provides protection and some offensive options.
  ### Intrusion

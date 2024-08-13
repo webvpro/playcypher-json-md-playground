@@ -1,4 +1,9 @@
----,aliases:,- descends from nobility,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- descends from nobility
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
  ### Intrusion

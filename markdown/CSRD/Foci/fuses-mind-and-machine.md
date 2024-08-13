@@ -1,4 +1,9 @@
----,aliases:,- fuses mind and machine,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- fuses mind and machine
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Electronic aids implanted in your brain make you a mental powerhouse.
  ### Intrusion

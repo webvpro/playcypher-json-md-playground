@@ -1,4 +1,9 @@
----,aliases:,- crafts illusions,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- crafts illusions
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You fashion images from light that are so perfect they seem real.
  ### Intrusion

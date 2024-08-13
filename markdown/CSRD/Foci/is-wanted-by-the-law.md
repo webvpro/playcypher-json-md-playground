@@ -1,4 +1,9 @@
----,aliases:,- is wanted by the law,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- is wanted by the law
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 "WANTED, DEAD OR ALIVE" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control or you actually would kill someone just for looking at you.
  ### Intrusion

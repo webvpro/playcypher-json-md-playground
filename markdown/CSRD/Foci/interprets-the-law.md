@@ -1,4 +1,9 @@
----,aliases:,- interprets the law,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- interprets the law
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You excel at winning others over to your views.
  ### Intrusion

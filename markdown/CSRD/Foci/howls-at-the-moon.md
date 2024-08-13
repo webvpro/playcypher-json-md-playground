@@ -1,4 +1,9 @@
----,aliases:,- howls at the moon,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- howls at the moon
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 For brief periods, you become a fearsome and powerful creature with control issues.
  ### Intrusion

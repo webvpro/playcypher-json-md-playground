@@ -1,4 +1,9 @@
----,aliases:,- fights dirty,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- fights dirty
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You'll do anything to win a fight: bite, scratch, kick, trick, and worse.
  ### Intrusion

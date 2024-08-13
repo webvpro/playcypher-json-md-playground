@@ -1,4 +1,9 @@
----,aliases:,- infiltrates,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- infiltrates
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Subtlety, guile, and stealth allow you to get in where others can't.
  ### Intrusion

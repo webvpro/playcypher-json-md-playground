@@ -1,4 +1,9 @@
----,aliases:,- throws with deadly accuracy,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- throws with deadly accuracy
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Everything that leaves your hand goes exactly where you'd like it to go and at the range and speed to make the perfect impact.
  ### Intrusion

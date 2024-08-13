@@ -1,4 +1,9 @@
----,aliases:,- consorts with the dead,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- consorts with the dead
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 The dead answer your questions, and their reanimated corpses serve you.
  ### Intrusion

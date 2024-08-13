@@ -1,4 +1,9 @@
----,aliases:,- uses wild magic,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- uses wild magic
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 spellcaster who learns a variety of spells instead of focusing on just one kind of magic.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- shepherds spirits,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- shepherds spirits
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Wandering souls, nature spirits, and elemental beings aid and support you.
  ### Intrusion

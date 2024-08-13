@@ -1,4 +1,9 @@
----,aliases:,- wears power armor,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- wears power armor
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Tier 1: Powered Armor
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- works the back alleys,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- works the back alleys
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You make your way unseen, stealing from the wealthy to achieve your ends.
  ### Intrusion

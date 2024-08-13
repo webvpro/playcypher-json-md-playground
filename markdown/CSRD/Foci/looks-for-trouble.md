@@ -1,4 +1,9 @@
----,aliases:,- looks for trouble,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- looks for trouble
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're a scrapper and love a good fight.
  ### Intrusion

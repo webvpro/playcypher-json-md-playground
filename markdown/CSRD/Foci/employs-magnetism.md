@@ -1,4 +1,9 @@
----,aliases:,- employs magnetism,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- employs magnetism
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You command metal and the power of magnetism.
  ### Intrusion

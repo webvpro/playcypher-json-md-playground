@@ -1,4 +1,9 @@
----,aliases:,- sailed beneath the jolly roger,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- sailed beneath the jolly roger
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You sailed with a crew of dread pirates, but you've decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?
  ### Intrusion

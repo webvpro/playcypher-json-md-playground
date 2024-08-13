@@ -1,4 +1,9 @@
----,aliases:,- walks the wild woods,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- walks the wild woods
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 An adherent of nature magic who draws on the power and strength of trees.
  ### Intrusion

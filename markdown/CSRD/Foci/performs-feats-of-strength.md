@@ -1,4 +1,9 @@
----,aliases:,- performs feats of strength,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- performs feats of strength
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- works miracles,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- works miracles
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can heal others with a touch, alter time to help others, and are generally beloved by everyone.
  ### Intrusion

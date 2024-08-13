@@ -1,4 +1,9 @@
----,aliases:,- grows to towering heights,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- grows to towering heights
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 For brief periods, you can grow larger and, with enough experience, to towering heights.
  ### Intrusion

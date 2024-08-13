@@ -1,4 +1,9 @@
----,aliases:,- solves mysteries,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- solves mysteries
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're a master of deduction, using evidence to find the answer.
  ### Intrusion

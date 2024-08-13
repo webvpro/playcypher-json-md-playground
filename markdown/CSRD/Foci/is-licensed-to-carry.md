@@ -1,4 +1,9 @@
----,aliases:,- is licensed to carry,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- is licensed to carry
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You carry a gun and you know how to use it in a fight.
  ### Intrusion

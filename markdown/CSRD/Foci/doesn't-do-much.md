@@ -1,4 +1,9 @@
----,aliases:,- doesn't do much,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- doesn't do much
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're a slacker, but you know a little about a lot of things.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- absorbs energy,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- absorbs energy
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can harness kinetic energy and transform it into other kinds of energy.
  ### Intrusion

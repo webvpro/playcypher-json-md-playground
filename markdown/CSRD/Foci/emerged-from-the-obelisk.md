@@ -1,4 +1,9 @@
----,aliases:,- emerged from the obelisk,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- emerged from the obelisk
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
  ### Intrusion

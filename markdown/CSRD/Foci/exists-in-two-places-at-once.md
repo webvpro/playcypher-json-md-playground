@@ -1,4 +1,9 @@
----,aliases:,- exists in two places at once,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- exists in two places at once
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You exist in two places at once.
  ### Intrusion

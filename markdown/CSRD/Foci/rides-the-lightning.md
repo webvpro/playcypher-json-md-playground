@@ -1,4 +1,9 @@
----,aliases:,- rides the lightning,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- rides the lightning
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You create and discharge electrical power.
  ### Intrusion

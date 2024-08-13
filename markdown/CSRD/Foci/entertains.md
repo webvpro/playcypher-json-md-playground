@@ -1,4 +1,9 @@
----,aliases:,- entertains,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- entertains
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You perform, mostly for the benefit of others.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- slays monsters,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- slays monsters
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You kill monsters.
  ### Intrusion

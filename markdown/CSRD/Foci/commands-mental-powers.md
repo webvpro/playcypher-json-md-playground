@@ -1,4 +1,9 @@
----,aliases:,- commands mental powers,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- commands mental powers
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You have honed the power of your mind to perform amazing psychic deeds.
  ### Intrusion

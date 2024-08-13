@@ -1,4 +1,9 @@
----,aliases:,- would rather be reading,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- would rather be reading
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Books are your friends. What's more important than knowledge? Nothing.
  ### Intrusion

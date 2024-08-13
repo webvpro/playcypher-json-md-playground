@@ -1,4 +1,9 @@
----,aliases:,- moves like the wind,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- moves like the wind
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can move so fast that you become a blur.
  ### Intrusion

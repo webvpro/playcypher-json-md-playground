@@ -1,4 +1,9 @@
----,aliases:,- plays too many games,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- plays too many games
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Lessons, reflexes, and strategies you've learned by playing too many games have applications in the real world, where people who don't play enough toil and live their dreary lives.
  ### Intrusion

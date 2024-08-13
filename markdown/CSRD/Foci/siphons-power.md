@@ -1,4 +1,9 @@
----,aliases:,- siphons power,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- siphons power
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You suck power out of machines and creatures alike in order to empower yourself.
  ### Intrusion

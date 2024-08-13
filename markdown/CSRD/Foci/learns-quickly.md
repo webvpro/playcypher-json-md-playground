@@ -1,4 +1,9 @@
----,aliases:,- learns quickly,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- learns quickly
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You deal with bad situations as they arise, learning new lessons each time.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- leads,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- leads
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your natural leadership capability allows you to command others, including a loyal band of followers.
  ### Intrusion

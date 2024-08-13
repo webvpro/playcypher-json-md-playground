@@ -1,4 +1,9 @@
----,aliases:,- defends the gate,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- defends the gate
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Everyone wants you on their side when it comes to a fight because nothing gets by you.
  ### Intrusion

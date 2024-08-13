@@ -1,4 +1,9 @@
----,aliases:,- ignores physical distance,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- ignores physical distance
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can teleport from one place to another by briefly passing through a parallel dimension.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- moves like a cat,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- moves like a cat
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.
  ### Intrusion

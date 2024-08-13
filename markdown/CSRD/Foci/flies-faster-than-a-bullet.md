@@ -1,4 +1,9 @@
----,aliases:,- flies faster than a bullet,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- flies faster than a bullet
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
  ### Intrusion

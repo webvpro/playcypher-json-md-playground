@@ -35,7 +35,7 @@ foci.forEach(fKey =>{
     tierAbilities.push(abilityStr)
   })
   const fileName = focus.name.trim().split(' ').join('-')
-  const fileContent = [`${matter}\n`,`${content}\n`,`${tierAbilities.join("\n")}\n`].join("\n")
+  const fileContent = [`${matter.join("\n")}\n`,`${content}\n`,`${tierAbilities.join("\n")}\n`].join("\n")
   
   console.log(fileContent)
   writeFileSync(`${filePath}${fileName}.md`,fileContent);

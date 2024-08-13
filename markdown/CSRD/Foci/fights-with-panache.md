@@ -1,4 +1,9 @@
----,aliases:,- fights with panache,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- fights with panache
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're a swashbuckling daredevil who fights with flamboyant style that's entertaining to watch.
  ### Intrusion

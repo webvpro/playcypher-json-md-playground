@@ -1,4 +1,9 @@
----,aliases:,- channels divine blessings,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- channels divine blessings
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 A devout follower of a divine being, you channel some of your deity's power to achieve wonders.
  ### Intrusion

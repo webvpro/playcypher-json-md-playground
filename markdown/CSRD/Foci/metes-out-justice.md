@@ -1,4 +1,9 @@
----,aliases:,- metes out justice,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- metes out justice
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You right wrongs, protect the innocent, and punish the guilty.
  ### Intrusion

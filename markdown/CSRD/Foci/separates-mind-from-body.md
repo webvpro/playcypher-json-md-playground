@@ -1,4 +1,9 @@
----,aliases:,- separates mind from body,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- separates mind from body
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.
  ### Intrusion

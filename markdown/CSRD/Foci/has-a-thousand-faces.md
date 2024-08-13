@@ -1,4 +1,9 @@
----,aliases:,- has a thousand faces,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- has a thousand faces
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can change your appearance to look like anyone else.
  ### Intrusion

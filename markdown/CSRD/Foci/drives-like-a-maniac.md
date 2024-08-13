@@ -1,4 +1,9 @@
----,aliases:,- drives like a maniac,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- drives like a maniac
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don't think about the risks when you're behind the wheel.
  ### Intrusion

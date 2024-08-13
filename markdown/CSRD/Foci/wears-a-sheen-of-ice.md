@@ -1,4 +1,9 @@
----,aliases:,- wears a sheen of ice,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- wears a sheen of ice
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You command the wintery power of cold and ice.
  ### Intrusion

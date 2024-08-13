@@ -1,4 +1,9 @@
----,aliases:,- talks to machines,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- talks to machines
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You use your organic brain like a computer, interfacing "wirelessly" with any electronic device. You can control and influence them in ways that others can't.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- sees beyond,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- sees beyond
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You have a psychic sense that allows you to see what others cannot.
  ### Intrusion

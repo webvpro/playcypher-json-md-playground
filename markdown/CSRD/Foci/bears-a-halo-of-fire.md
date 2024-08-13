@@ -1,4 +1,9 @@
----,aliases:,- bears a halo of fire,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- bears a halo of fire
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can sheath your body in flames, which protects you and harms your foes.
  ### Intrusion

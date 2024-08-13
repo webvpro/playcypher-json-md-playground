@@ -1,4 +1,9 @@
----,aliases:,- battles robots,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- battles robots
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You excel in battling robots, automatons, and machine entities.
  ### Intrusion

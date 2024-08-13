@@ -1,4 +1,9 @@
----,aliases:,- is idolized by millions,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- is idolized by millions
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're a celebrity and most people adore you.
  ### Intrusion

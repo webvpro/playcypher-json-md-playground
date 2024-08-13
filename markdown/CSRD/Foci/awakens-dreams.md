@@ -1,4 +1,9 @@
----,aliases:,- awakens dreams,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- awakens dreams
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can pull images from dreams and bring them to life in the waking world.
  ### Intrusion

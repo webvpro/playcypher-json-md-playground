@@ -1,4 +1,9 @@
----,aliases:,- touches the sky,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- touches the sky
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can summon storms or break them apart.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- dances with dark matter,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- dances with dark matter
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can manipulate shadow and "dark" matter.
  ### Intrusion

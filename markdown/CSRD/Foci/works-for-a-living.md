@@ -1,4 +1,9 @@
----,aliases:,- works for a living,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- works for a living
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You take great satisfaction in a job well done, whether it's coding, building houses, or mining asteroids.
  ### Intrusion

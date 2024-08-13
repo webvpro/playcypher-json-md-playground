@@ -1,4 +1,9 @@
----,aliases:,- loves the void,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- loves the void
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 When it's just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
  ### Intrusion

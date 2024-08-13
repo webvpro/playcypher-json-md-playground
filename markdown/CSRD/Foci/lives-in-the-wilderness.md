@@ -1,4 +1,9 @@
----,aliases:,- lives in the wilderness,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- lives in the wilderness
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can survive in badlands where others perish.
  ### Intrusion

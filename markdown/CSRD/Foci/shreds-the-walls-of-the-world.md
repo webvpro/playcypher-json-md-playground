@@ -1,4 +1,9 @@
----,aliases:,- shreds the walls of the world,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- shreds the walls of the world
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
  ### Intrusion

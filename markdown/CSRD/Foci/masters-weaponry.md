@@ -1,4 +1,9 @@
----,aliases:,- masters weaponry,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- masters weaponry
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, or something else.
  ### Intrusion

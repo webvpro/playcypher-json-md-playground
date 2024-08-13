@@ -1,4 +1,9 @@
----,aliases:,- controls gravity,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- controls gravity
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can sway the attraction of gravity itself.
  ### Intrusion

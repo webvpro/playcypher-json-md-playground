@@ -1,4 +1,9 @@
----,aliases:,- wields an enchanted weapon,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- wields an enchanted weapon
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
  ### Intrusion

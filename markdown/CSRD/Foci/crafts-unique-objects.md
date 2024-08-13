@@ -1,4 +1,9 @@
----,aliases:,- crafts unique objects,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- crafts unique objects
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're an inventor of strange and useful objects.
  ### Intrusion

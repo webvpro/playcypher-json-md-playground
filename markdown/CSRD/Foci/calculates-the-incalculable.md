@@ -1,4 +1,9 @@
----,aliases:,- calculates the incalculable,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- calculates the incalculable
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.
  ### Intrusion

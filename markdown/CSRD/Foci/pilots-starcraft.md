@@ -1,4 +1,9 @@
----,aliases:,- pilots starcraft,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- pilots starcraft
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You're a crack starship pilot.
  ### Intrusion

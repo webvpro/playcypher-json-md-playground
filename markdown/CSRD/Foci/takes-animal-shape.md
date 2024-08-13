@@ -1,4 +1,9 @@
----,aliases:,- takes animal shape,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- takes animal shape
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 A shapechanger who can take the form of various animals.
  ### Intrusion

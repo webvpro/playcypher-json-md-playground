@@ -1,4 +1,9 @@
----,aliases:,- copies superpowers,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- copies superpowers
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can copy others' skills, abilities, and superpowers.
  ### Intrusion

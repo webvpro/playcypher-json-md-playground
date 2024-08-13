@@ -1,4 +1,9 @@
----,aliases:,- stretches,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- stretches
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.
  ### Intrusion

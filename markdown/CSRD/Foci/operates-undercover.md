@@ -1,4 +1,9 @@
----,aliases:,- operates undercover,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- operates undercover
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Under the guise of someone else, you seek to find answers the powerful do not want divulged.
  ### Intrusion

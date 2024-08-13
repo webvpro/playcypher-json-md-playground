@@ -1,4 +1,9 @@
----,aliases:,- speaks for the land,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- speaks for the land
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your spiritual connection to nature and the environment grants you mystical abilities.
  ### Intrusion

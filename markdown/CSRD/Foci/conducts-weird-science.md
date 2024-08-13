@@ -1,4 +1,9 @@
----,aliases:,- conducts weird science,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- conducts weird science
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your preternatural insight and ability make you a scientist capable of amazing feats.
  ### Intrusion

@@ -1,4 +1,9 @@
----,aliases:,- wields two weapons at once,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- wields two weapons at once
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You bear steel with both hands, ready to take on any foe.
  ### Intrusion

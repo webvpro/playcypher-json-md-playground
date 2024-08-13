@@ -1,4 +1,9 @@
----,aliases:,- builds robots,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- builds robots
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Your robotic creations do as they are commanded.
  ### Intrusion

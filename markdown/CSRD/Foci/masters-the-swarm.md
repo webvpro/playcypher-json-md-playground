@@ -1,4 +1,9 @@
----,aliases:,- masters the swarm,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- masters the swarm
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.
  ### Intrusion

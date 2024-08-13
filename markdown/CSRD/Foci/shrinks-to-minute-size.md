@@ -1,4 +1,9 @@
----,aliases:,- shrinks to minute size,tags:,- Compendium/CSRD/en/Foci,---
+---
+aliases:
+- shrinks to minute size
+tags:
+- Compendium/CSRD/en/Foci
+---
 
 You can shrink down to the size of a bug and, with enough experience, even smaller. (A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.)
  ### Intrusion
