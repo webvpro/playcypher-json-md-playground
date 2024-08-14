@@ -17,7 +17,7 @@ foci.forEach(fKey =>{
     `aliases:`,
     `- ${aliase}`,
     `tags:`,
-    '- Compendium/CSRD/en/Foci',
+    '- Foci',
     '---',
   ];
   let content = `${focus.description}  \n ### Intrusion  \n${focus.intrusion}`;
@@ -25,7 +25,7 @@ foci.forEach(fKey =>{
   //console.log(matter.join("\n"))
    const abilities = Object.keys(focus.abilities);
   //console.log(abilities)
-  let tierAbilities = ['#### Tier 1'];
+  let tierAbilities = ['#### Tier 1  '];
   let tCount = 1;
   
    abilities.forEach(aKey =>{
@@ -34,13 +34,13 @@ foci.forEach(fKey =>{
     const abilityFileName = abilityAliase.split(' ').join('-');
     if (tCount < ability.tier) {
         tCount = ability.tier;
-        tierAbilities.push(`#### Tier ${tCount}  \n`);
+        tierAbilities.push(`#### Tier ${tCount}  `);
     } 
     let orString = ability.preselected ? "* " : "  - "
     let abilityLink = `${orString}[[${abilityFileName}|${abilityAliase}]]`;
       tierAbilities.push(abilityLink);
   });
-  const fileContent = [`${matter.join("  \n")}\n`,`${content}\n`,`${tierAbilities.join("  \n")}  \n`].join("  \n");
+  const fileContent = [`${matter.join("\n")}\n\n`,`## ${aliase}`,`${content} `,`${tierAbilities.join("  \n")}`].join("  \n");
   console.log(tierAbilities);
   writeFileSync(`${filePath}${fileName}.md`,fileContent);
 });

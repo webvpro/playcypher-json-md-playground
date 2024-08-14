@@ -1,0 +1,15 @@
+---
+aliases:
+- Subconscious Defense
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/PROTECTION
+---
+
+  
+## Subconscious Defense  
+Your subconscious constantly runs predictive models for avoiding danger. You gain an asset on your Speed defense tasks. Enabler. 

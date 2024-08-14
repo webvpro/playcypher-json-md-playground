@@ -1,0 +1,16 @@
+---
+aliases:
+- Impart Understanding
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/META
+- Ability/Categories/SUPPORT
+---
+
+  
+## Impart Understanding  
+Your Learning the Path ability works more effectively, allowing you to ease a task by two steps or to provide two assets to a friend's task, instead of easing normally. Enabler. 

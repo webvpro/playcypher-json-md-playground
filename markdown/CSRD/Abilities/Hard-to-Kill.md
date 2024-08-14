@@ -1,0 +1,16 @@
+---
+aliases:
+- Hard to Kill
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/High
+- Ability/Categories/META
+- Ability/Categories/PROTECTION
+---
+
+  
+## Hard to Kill  
+You can choose to reroll any defense task you make but never more than once per round. Enabler. 

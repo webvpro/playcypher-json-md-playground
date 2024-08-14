@@ -1,0 +1,16 @@
+---
+aliases:
+- Elusive
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Speed
+- Ability/Categories/META
+---
+
+  
+## Elusive  
+When you succeed on a Speed defense action, you immediately gain an action. You can use this action only to move. Enabler. 

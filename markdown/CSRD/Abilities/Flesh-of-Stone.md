@@ -1,0 +1,15 @@
+---
+aliases:
+- Flesh of Stone
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/PROTECTION
+---
+
+  
+## Flesh of Stone  
+You have +1 to Armor if you do not wear physical armor. Enabler. 

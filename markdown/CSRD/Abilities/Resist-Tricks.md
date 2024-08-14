@@ -1,0 +1,15 @@
+---
+aliases:
+- Resist Tricks
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/TASK
+---
+
+  
+## Resist Tricks  
+You're trained in solving puzzles and recognizing tricks from years of game playing. Enabler. 

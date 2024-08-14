@@ -1,0 +1,15 @@
+---
+aliases:
+- Experienced Defender
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/PROTECTION
+---
+
+  
+## Experienced Defender  
+When wearing armor, you gain +1 to Armor. Enabler. 

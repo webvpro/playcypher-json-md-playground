@@ -1,0 +1,16 @@
+---
+aliases:
+- Serv-0 Aim
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/ATTACK SKILL
+- Ability/Categories/TASK
+---
+
+  
+## Serv-0 Aim  
+Your Serv-0 aids you in ranged combat. It gains a modification in ranged attacks. Enabler. 

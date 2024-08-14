@@ -1,0 +1,15 @@
+---
+aliases:
+- Resist the Elements
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Low
+- Ability/Categories/PROTECTION
+---
+
+  
+## Resist the Elements  
+You resist heat, cold, and similar extremes. You have a special +2 to Armor against ambient damage or other damage that would normally ignore Armor. Enabler. 

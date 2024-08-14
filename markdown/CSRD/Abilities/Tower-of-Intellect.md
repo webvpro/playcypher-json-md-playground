@@ -1,0 +1,15 @@
+---
+aliases:
+- Tower of Intellect
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ENABLER
+- Ability/Cost/0
+- Ability/Tier/Mid
+- Ability/Categories/PROTECTION
+---
+
+  
+## Tower of Intellect  
+You are trained in Intellect defense tasks. If you are already trained, you are specialized in those tasks instead. Enabler. 

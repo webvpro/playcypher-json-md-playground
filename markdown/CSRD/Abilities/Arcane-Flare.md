@@ -1,0 +1,17 @@
+---
+aliases:
+- Arcane Flare
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/META
+- Ability/Categories/SPECIAL ATTACK
+---
+
+  
+## Arcane Flare  
+You enhance the damage of another attack spell with an extra charge of energy so that it deals 1 additional point of damage. Alternatively, you attack a target within long range by projecting a flare of raw magic that inflicts 4 points of damage. Enabler for enhancement; action for long-range attack. 

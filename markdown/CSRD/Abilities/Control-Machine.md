@@ -1,0 +1,16 @@
+---
+aliases:
+- Control Machine
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/CONTROL
+---
+
+  
+## Control Machine  
+You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes. Action. 

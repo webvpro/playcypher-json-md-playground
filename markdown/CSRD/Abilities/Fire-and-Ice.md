@@ -1,0 +1,16 @@
+---
+aliases:
+- Fire and Ice
+tags:
+- Compendium/CSRD/en/Rules/Abilities
+- Ability
+- Ability/ACTION
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/SPECIAL ATTACK
+---
+
+  
+## Fire and Ice  
+You cause a target within short range to become either very hot or very cold (your choice). The target suffers 3 points of ambient damage (ignores Armor) each round for up to three rounds, although a new roll is required each round to continue to affect the target. Action to initiate. 
