@@ -10210,12 +10210,12 @@
                 "abilities": {
                     "KNOWLEDGEISPOWER": {
                         "name": "Knowledge Is Power",
-                        "tier": 6,
+                        "tier": 1,
                         "preselected": true
                     },
                     "GREATERENHANCEDINTELLECT": {
                         "name": "Greater Enhanced Intellect",
-                        "tier": 5,
+                        "tier": 2,
                         "preselected": true
                     },
                     "APPLYINGYOURKNOWLEDGE": {
@@ -10228,9 +10228,24 @@
                         "tier": 3,
                         "preselected": false
                     },
+                    "KNOWLEDGEISPOWER2": {
+                        "name": "Knowledge Is Power",
+                        "tier": 4,
+                        "preselected": true
+                    },
                     "KNOWINGTHEUNKNOWN": {
                         "name": "Knowing the Unknown",
                         "tier": 4,
+                        "preselected": true
+                    },
+                    "GREATERENHANCEDINTELLECT2": {
+                        "name": "Greater Enhanced Intellect",
+                        "tier": 5,
+                        "preselected": true
+                    },
+                    "KNOWLEDGEISPOWER3": {
+                        "name": "Knowledge Is Power",
+                        "tier": 6,
                         "preselected": true
                     },
                     "TOWEROFINTELLECT": {
