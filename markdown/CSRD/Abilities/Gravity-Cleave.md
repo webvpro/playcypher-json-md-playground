@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Gravity Cleave  
-You can harm a target within short range by rapidly increasing gravity's pull on one portion of the target and decreasing it on another, inflicting 6 points of damage. Action. 
+>3  Intellect  
+  
+You can harm a target within short range by rapidly increasing gravity's pull on one portion of the target and decreasing it on another, inflicting 6 points of damage. Action.

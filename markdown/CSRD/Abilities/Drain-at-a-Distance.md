@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Drain at a Distance  
-Your Drain Machine and Drain Creature abilities work on a target within short range. Enabler. 
+Your Drain Machine and Drain Creature abilities work on a target within short range. Enabler.

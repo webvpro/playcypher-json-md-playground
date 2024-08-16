@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Hurl Flame  
-While your Shroud of Flame is active, you can reach into your halo and hurl a handful of fire at a target. This is a ranged attack with short range that deals 4 points of fire damage. Action. 
+>2  Intellect  
+  
+While your Shroud of Flame is active, you can reach into your halo and hurl a handful of fire at a target. This is a ranged attack with short range that deals 4 points of fire damage. Action.

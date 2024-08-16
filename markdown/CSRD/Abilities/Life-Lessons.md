@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Life Lessons  
-Choose any two noncombat skills. You are trained in those skills. Enabler. 
+Choose any two noncombat skills. You are trained in those skills. Enabler.

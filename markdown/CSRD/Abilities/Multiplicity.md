@@ -8,10 +8,12 @@ tags:
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Might
-- Ability/Categories/COMPANION
-- Ability/Categories/META
+- Ability/Categories/Companion
+- Ability/Categories/Meta
 ---
 
   
 ## Multiplicity  
-This ability functions as Duplicate, except you can create two duplicates. Action to initiate. 
+>6  Might  
+  
+This ability functions as Duplicate, except you can create two duplicates. Action to initiate.

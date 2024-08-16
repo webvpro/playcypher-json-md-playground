@@ -7,10 +7,10 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/ATTACK SKILL
-- Ability/Categories/PROTECTION
+- Ability/Categories/Attack-Skill
+- Ability/Categories/Protection
 ---
 
   
 ## Blood Fever  
-When you have no points in one or two Pools, you gain an asset to attacks or defense rolls (your choice). Enabler. 
+When you have no points in one or two Pools, you gain an asset to attacks or defense rolls (your choice). Enabler.

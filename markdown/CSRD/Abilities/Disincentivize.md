@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Disincentivize  
-You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets' actions are hindered for one round. Enabler. 
+>1+  Intellect  
+  
+You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets' actions are hindered for one round. Enabler.

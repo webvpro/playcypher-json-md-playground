@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Trained Interlocutor  
-Through wit, charm, humor, and grace (or sometimes rudeness, threatening posture, and obscenity), you're better able to talk others into what you want. You are trained in all interactions. Enabler. 
+Through wit, charm, humor, and grace (or sometimes rudeness, threatening posture, and obscenity), you're better able to talk others into what you want. You are trained in all interactions. Enabler.

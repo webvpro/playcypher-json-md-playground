@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Unarmored Fighter  
-While unarmored, you are trained in Speed defense tasks. Enabler. 
+While unarmored, you are trained in Speed defense tasks. Enabler.

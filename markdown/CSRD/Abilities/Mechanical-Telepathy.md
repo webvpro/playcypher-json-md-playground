@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/INFORMATION
+- Ability/Categories/Information
 ---
 
   
 ## Mechanical Telepathy  
-By touching a thinking machine, you gain access to its surface "thoughts." Action. 
+>3  Intellect  
+  
+By touching a thinking machine, you gain access to its surface "thoughts." Action.

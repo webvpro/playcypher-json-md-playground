@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/ATTACK SKILL
+- Ability/Categories/Attack-Skill
 ---
 
   
 ## Practiced With All Weapons  
-You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler. 
+You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.

@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/ENVIRONMENT
+- Ability/Categories/Environment
 ---
 
   
 ## Impetus  
-A loose object within short range that you could carry in one hand is drawn to your free hand. If the object is stuck or held by another creature, you must succeed on a Might roll to rip it free, or the object remains where it is. Action. 
+>2  Intellect  
+  
+A loose object within short range that you could carry in one hand is drawn to your free hand. If the object is stuck or held by another creature, you must succeed on a Might roll to rip it free, or the object remains where it is. Action.

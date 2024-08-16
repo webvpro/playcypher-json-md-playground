@@ -7,10 +7,10 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
-- Ability/Categories/PROTECTION
+- Ability/Categories/Meta
+- Ability/Categories/Protection
 ---
 
   
 ## Ultra Enhancement  
-You gain +1 to Armor and +5 to each of your three stat Pools. Enabler. 
+You gain +1 to Armor and +5 to each of your three stat Pools. Enabler.

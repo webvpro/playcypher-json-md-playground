@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Hardiness  
-You are trained in Might defense tasks. Enabler. 
+You are trained in Might defense tasks. Enabler.

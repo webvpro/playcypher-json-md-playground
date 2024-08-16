@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Greater Enhanced Physique  
-You gain 6 points to divide among your Might and Speed Pools however you wish. Enabler. 
+You gain 6 points to divide among your Might and Speed Pools however you wish. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Wilderness Life  
-You are trained in two of the following: climbing, swimming, navigation, or identifying plants and creatures. Enabler. 
+You are trained in two of the following: climbing, swimming, navigation, or identifying plants and creatures. Enabler.

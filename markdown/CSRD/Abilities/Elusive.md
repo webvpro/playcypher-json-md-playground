@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Speed
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Elusive  
-When you succeed on a Speed defense action, you immediately gain an action. You can use this action only to move. Enabler. 
+>2+  Speed  
+  
+When you succeed on a Speed defense action, you immediately gain an action. You can use this action only to move. Enabler.

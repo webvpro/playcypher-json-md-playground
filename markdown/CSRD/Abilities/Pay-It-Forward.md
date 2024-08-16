@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Pay It Forward  
-You can pass on what you've learned. When you give another character a suggestion involving their next action that is not an attack, their action is eased for one minute. Action. 
+>3  Intellect  
+  
+You can pass on what you've learned. When you give another character a suggestion involving their next action that is not an attack, their action is eased for one minute. Action.

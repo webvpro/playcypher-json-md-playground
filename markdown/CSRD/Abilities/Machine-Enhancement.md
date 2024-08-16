@@ -7,9 +7,9 @@ tags:
 - Ability/ACTION
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Machine Enhancement  
-Any time you use Effort on an Intellect action, add one of the following enhancements to the action (your choice): Free level of Effort Automatic minor effect Enabler. 
+Any time you use Effort on an Intellect action, add one of the following enhancements to the action (your choice): Free level of Effort Automatic minor effect Enabler.

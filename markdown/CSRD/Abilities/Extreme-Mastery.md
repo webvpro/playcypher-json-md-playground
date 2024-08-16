@@ -9,9 +9,11 @@ tags:
 - Ability/Tier/High
 - Ability/Pool/Might
 - Ability/Pool/Speed
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Extreme Mastery  
-When using your chosen weapon, you can reroll any attack roll you wish and take the better of the two results. Enabler. 
+>6+  Might, Speed  
+  
+When using your chosen weapon, you can reroll any attack roll you wish and take the better of the two results. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Iron Fist  
-Your unarmed attacks deal 4 points of damage. Enabler. 
+Your unarmed attacks deal 4 points of damage. Enabler.

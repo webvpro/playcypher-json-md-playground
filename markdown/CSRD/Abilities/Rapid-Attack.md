@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Speed
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Rapid Attack  
-Once per round, you can make an additional attack with your chosen weapon. Enabler. 
+>3+  Speed  
+  
+Once per round, you can make an additional attack with your chosen weapon. Enabler.

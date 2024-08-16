@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Subtle Steps  
-When you move no more than a short distance, you can move without making a sound, regardless of the surface you move across. Enabler. 
+When you move no more than a short distance, you can move without making a sound, regardless of the surface you move across. Enabler.

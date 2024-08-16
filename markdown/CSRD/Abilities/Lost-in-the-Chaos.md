@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Lost in the Chaos  
-When faced with several foes at once, you have developed tactics for using their numbers against them. When two or more foes attack you at once in melee, you play one off the other. Speed defense rolls or attack rolls (your choice) against them are eased. Enabler. 
+When faced with several foes at once, you have developed tactics for using their numbers against them. When two or more foes attack you at once in melee, you play one off the other. Speed defense rolls or attack rolls (your choice) against them are eased. Enabler.

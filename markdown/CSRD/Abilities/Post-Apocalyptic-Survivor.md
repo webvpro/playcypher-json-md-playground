@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Post-Apocalyptic Survivor  
-You are trained in stealth and Might defense tasks. Enabler. 
+You are trained in stealth and Might defense tasks. Enabler.

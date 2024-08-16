@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/INFORMATION
+- Ability/Categories/Information
 ---
 
   
 ## Serv-0 Scanner  
-Your Serv-0 gains the Scan ability. Enabler. 
+>2+  Intellect  
+  
+Your Serv-0 gains the Scan ability. Enabler.

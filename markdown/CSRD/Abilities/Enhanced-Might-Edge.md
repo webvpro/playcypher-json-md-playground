@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Enhanced Might Edge  
-You gain +1 to your Might Edge. Enabler. 
+You gain +1 to your Might Edge. Enabler.

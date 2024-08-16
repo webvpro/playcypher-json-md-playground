@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Evasion  
-You're hard to affect when you don't want to be affected. You are trained in all defense tasks. Enabler. 
+You're hard to affect when you don't want to be affected. You are trained in all defense tasks. Enabler.

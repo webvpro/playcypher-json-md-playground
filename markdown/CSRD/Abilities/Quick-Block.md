@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Quick Block  
-If you use a light or medium weapon, you are trained in Speed defense tasks. Enabler. 
+If you use a light or medium weapon, you are trained in Speed defense tasks. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Defensive Augmentation  
-By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. Enabler. 
+By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. Enabler.

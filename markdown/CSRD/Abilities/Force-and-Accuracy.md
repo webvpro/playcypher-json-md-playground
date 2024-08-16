@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Force and Accuracy  
-You inflict 3 additional points of damage with attacks using weapons that you throw. Enabler. 
+You inflict 3 additional points of damage with attacks using weapons that you throw. Enabler.

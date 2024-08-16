@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/COMPANION
+- Ability/Categories/Companion
 ---
 
   
 ## Resilient Duplicate  
-Increase the health ofany duplicate you create (such as with Duplicate) by 5. Enabler. 
+Increase the health ofany duplicate you create (such as with Duplicate) by 5. Enabler.

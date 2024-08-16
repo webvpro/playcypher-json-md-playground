@@ -7,10 +7,10 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/SPECIAL ATTACK
-- Ability/Categories/TASK
+- Ability/Categories/Special-Attack
+- Ability/Categories/Task
 ---
 
   
 ## Taking Advantage  
-When your foe is weakened, dazed, stunned, moved down the damage track, or disadvantaged in some other way, your attacks against that foe are eased beyond any other modifications due to the disadvantage. Enabler. 
+When your foe is weakened, dazed, stunned, moved down the damage track, or disadvantaged in some other way, your attacks against that foe are eased beyond any other modifications due to the disadvantage. Enabler.

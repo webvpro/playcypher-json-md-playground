@@ -7,10 +7,10 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/ATTACK SKILL
-- Ability/Categories/TASK
+- Ability/Categories/Attack-Skill
+- Ability/Categories/Task
 ---
 
   
 ## Serv-0 Aim  
-Your Serv-0 aids you in ranged combat. It gains a modification in ranged attacks. Enabler. 
+Your Serv-0 aids you in ranged combat. It gains a modification in ranged attacks. Enabler.

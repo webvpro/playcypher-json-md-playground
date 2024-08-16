@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Investigate  
-You are trained in perception, cryptography, deceiving, and breaking into computers. Enabler. 
+You are trained in perception, cryptography, deceiving, and breaking into computers. Enabler.

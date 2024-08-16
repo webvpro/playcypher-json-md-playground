@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/CONTROL
+- Ability/Categories/Control
 ---
 
   
 ## Flee  
-All non-allies within short distance who can hear your dreadful, intimidating words flee from you at top speed for one minute. Action. 
+>6  Intellect  
+  
+All non-allies within short distance who can hear your dreadful, intimidating words flee from you at top speed for one minute. Action.

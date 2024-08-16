@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Hard Target  
-If you move a short distance or farther on your turn, all Speed defense rolls are eased. Enabler. 
+If you move a short distance or farther on your turn, all Speed defense rolls are eased. Enabler.

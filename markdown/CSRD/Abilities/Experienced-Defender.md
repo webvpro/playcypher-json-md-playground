@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Experienced Defender  
-When wearing armor, you gain +1 to Armor. Enabler. 
+When wearing armor, you gain +1 to Armor. Enabler.

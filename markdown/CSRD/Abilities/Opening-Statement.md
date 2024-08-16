@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Opening Statement  
-You're trained in tasks related to persuasion, deception, and detecting the falsehoods of others. Enabler. 
+You're trained in tasks related to persuasion, deception, and detecting the falsehoods of others. Enabler.

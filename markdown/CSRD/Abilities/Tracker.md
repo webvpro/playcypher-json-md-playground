@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Tracker  
-You are trained in following and identifying tracks. Enabler. 
+You are trained in following and identifying tracks. Enabler.

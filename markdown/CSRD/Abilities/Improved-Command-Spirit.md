@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Improved Command Spirit  
-When you use your Command Spirit ability, you can command a spirit or animate undead creature of up to level 7.Enabler. 
+When you use your Command Spirit ability, you can command a spirit or animate undead creature of up to level 7.Enabler.

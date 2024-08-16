@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Tower of Intellect  
-You are trained in Intellect defense tasks. If you are already trained, you are specialized in those tasks instead. Enabler. 
+You are trained in Intellect defense tasks. If you are already trained, you are specialized in those tasks instead. Enabler.

@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/9
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Will of a Leader  
-You harden your allies' dedication and capabilities. Each ally within immediate range gains +1 Edge to one stat of their choice for one hour. You also gain this benefit to one stat of your choice. Action. 
+>9  Intellect  
+  
+You harden your allies' dedication and capabilities. Each ally within immediate range gains +1 Edge to one stat of their choice for one hour. You also gain this benefit to one stat of your choice. Action.

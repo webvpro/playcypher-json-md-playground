@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Mind Games  
-You use lies and trickery, mockery, and perhaps even hateful, obscene language against a foe that can understand you. If successful, the foe is stunned for one round and cannot act, and it is dazed in the following round, during which time its tasks are hindered. Action. 
+>3  Intellect  
+  
+You use lies and trickery, mockery, and perhaps even hateful, obscene language against a foe that can understand you. If successful, the foe is stunned for one round and cannot act, and it is dazed in the following round, during which time its tasks are hindered. Action.

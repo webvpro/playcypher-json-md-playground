@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Soothe Mind and Body  
-The body and the mind are connected. All healing tasks you attempt are eased by two steps. Enabler. 
+The body and the mind are connected. All healing tasks you attempt are eased by two steps. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/CURE
+- Ability/Categories/Cure
 ---
 
   
 ## Aquatic Combatant  
-You ignore penalties for any action (including fighting) in underwater environments. Enabler. 
+You ignore penalties for any action (including fighting) in underwater environments. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/ATTACK SKILL
+- Ability/Categories/Attack-Skill
 ---
 
   
 ## Practiced With Swords  
-You are practiced with swords and can use them without penalty. Enabler. 
+You are practiced with swords and can use them without penalty. Enabler.

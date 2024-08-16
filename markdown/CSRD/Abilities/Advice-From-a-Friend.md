@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Advice From a Friend  
-You know your friend's strengths and weaknesses, and how to motivate them to succeed. When you give an ally a suggestion involving their next action, the character is trained in that action for one round. Action. 
+>1  Intellect  
+  
+You know your friend's strengths and weaknesses, and how to motivate them to succeed. When you give an ally a suggestion involving their next action, the character is trained in that action for one round. Action.

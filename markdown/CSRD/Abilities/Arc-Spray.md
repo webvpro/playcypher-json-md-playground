@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/High
 - Ability/Pool/Speed
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Arc Spray  
-If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered. Action. 
+>3  Speed  
+  
+If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered. Action.

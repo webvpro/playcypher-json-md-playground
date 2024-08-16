@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/CURE
+- Ability/Categories/Cure
 ---
 
   
 ## Will of Legend  
-You are immune to attacks that would captivate, mesmerize, charm, or otherwise influence your mind. Enabler. 
+You are immune to attacks that would captivate, mesmerize, charm, or otherwise influence your mind. Enabler.

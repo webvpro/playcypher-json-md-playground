@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/High
 - Ability/Pool/Speed
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Dirty Fighter  
-You distract, blind, annoy, hamper, or otherwise interfere with a foe, hindering their attacks and defenses for one minute. Action. 
+>2  Speed  
+  
+You distract, blind, annoy, hamper, or otherwise interfere with a foe, hindering their attacks and defenses for one minute. Action.

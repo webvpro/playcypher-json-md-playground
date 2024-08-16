@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/ENVIRONMENT
+- Ability/Categories/Environment
 ---
 
   
 ## The Wild Is on Your Side  
-While you're in the wilderness, foes within short range are tripped by rocks, tangled in vines, bitten by insects, and distracted or confused by small animals, which hinders all their tasks for ten minutes. Action to initiate. 
+>5  Intellect  
+  
+While you're in the wilderness, foes within short range are tripped by rocks, tangled in vines, bitten by insects, and distracted or confused by small animals, which hinders all their tasks for ten minutes. Action to initiate.

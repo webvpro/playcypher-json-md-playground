@@ -21,16 +21,18 @@ abilities.forEach(aKey =>{
      `- Ability/Cost/${cost}`,
      `- Ability/Tier/${tier}`,
    ]
-   
+   let pools = []
    if (Array.isArray(ability.pool)) {
         ability.pool.forEach((pi)=>{
           tags.push(`- Ability/Pool/${titleCase(pi)}`)
-        })                                                                                        
+          pools.push(`${titleCase(pi)}`)
+        })
+                                                                                                   
    }
 
    if (Array.isArray(ability.category)) {
     ability.category.forEach((ac)=>{
-      tags.push(`- Ability/Categories/${titleCase(ac)}`)
+      tags.push(`- Ability/Categories/${titleCase(ac.toLowerCase().trim()).split(" ").join("-")}`)
     })                                                                                        
 }
    
@@ -42,10 +44,16 @@ abilities.forEach(aKey =>{
     tags.join("\n"),
     '---',
   ];
-  let content = `${ability.description} `;
+  const enablerPointAdd = ability.kind === "ENABLER" ? "+ ": " ";
+  const poolCost = ability.cost ? `>${ability.cost}${enablerPointAdd} ${pools.join(", ")}  \n` : ""
+  let content = [`## ${aliase}`];
+  if(poolCost) {
+    content.push(poolCost)
+  }
+  content.push(`${ability.description}`);
   
   
-  const fileContent = [`${matter.join("\n")}\n\n`,`## ${aliase}`,`${content}`].join("  \n");
+  const fileContent = [`${matter.join("\n")}\n\n`,`${content.join("  \n")}`].join("  \n");
    //console.log(fileContent);
   writeFileSync(`${filePath}${fileName}.md`,fileContent);
 });

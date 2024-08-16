@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Might
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Dazing Attack  
-You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. Action. 
+>3  Might  
+  
+You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. Action.

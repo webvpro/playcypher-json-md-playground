@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Combat Challenge  
-All attempted tasks that draw an attack to yourself (and away from someone else) are eased by two steps. Enabler. 
+All attempted tasks that draw an attack to yourself (and away from someone else) are eased by two steps. Enabler.

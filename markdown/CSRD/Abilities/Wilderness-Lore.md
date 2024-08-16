@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Wilderness Lore  
-You are trained in wilderness navigation and in identifying plants and creatures. Enabler. 
+You are trained in wilderness navigation and in identifying plants and creatures. Enabler.

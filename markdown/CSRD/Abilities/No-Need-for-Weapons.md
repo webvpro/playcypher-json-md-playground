@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## No Need for Weapons  
-When you make an unarmed attack (such as a punch or kick), it counts as a medium weapon instead of a light weapon. Enabler. 
+When you make an unarmed attack (such as a punch or kick), it counts as a medium weapon instead of a light weapon. Enabler.

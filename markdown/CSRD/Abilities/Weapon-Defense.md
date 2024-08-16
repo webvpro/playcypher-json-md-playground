@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Weapon Defense  
-While your chosen weapon is in your hand(s), you are trained in Speed defense rolls. Enabler. 
+While your chosen weapon is in your hand(s), you are trained in Speed defense rolls. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Inventor  
-You can create new artifacts in half the time, as if they were two levels lower, by spending half the normal XP. Enabler. 
+You can create new artifacts in half the time, as if they were two levels lower, by spending half the normal XP. Enabler.

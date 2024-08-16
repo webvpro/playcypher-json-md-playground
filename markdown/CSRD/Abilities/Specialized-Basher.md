@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/ATTACK SKILL
+- Ability/Categories/Attack-Skill
 ---
 
   
 ## Specialized Basher  
-You are specialized in using the stone fists from your Golem Body ability as a medium weapon. Enabler. 
+You are specialized in using the stone fists from your Golem Body ability as a medium weapon. Enabler.

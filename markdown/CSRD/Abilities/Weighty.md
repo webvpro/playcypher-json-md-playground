@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Weighty  
-You briefly increase the weight of a target within short range enough to stop them in their tracks, preventing the target from moving and hindering any attempted tasks on their next turn. Action. 
+>1  Intellect  
+  
+You briefly increase the weight of a target within short range enough to stop them in their tracks, preventing the target from moving and hindering any attempted tasks on their next turn. Action.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Trained Without Armor  
-You are trained in Speed defense tasks when not wearing armor. Enabler. 
+You are trained in Speed defense tasks when not wearing armor. Enabler.

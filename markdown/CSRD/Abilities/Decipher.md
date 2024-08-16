@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/INFORMATION
+- Ability/Categories/Information
 ---
 
   
 ## Decipher  
-If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. Action to initiate. 
+>1  Intellect  
+  
+If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. Action to initiate.

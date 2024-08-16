@@ -8,10 +8,12 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Might
-- Ability/Categories/PROTECTION
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Protection
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Dodge and Respond  
-If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn. Enabler. 
+>3+  Might  
+  
+If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn. Enabler.

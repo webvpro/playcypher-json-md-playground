@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Sneak  
-You are trained in stealth and initiative tasks. Enabler. 
+You are trained in stealth and initiative tasks. Enabler.

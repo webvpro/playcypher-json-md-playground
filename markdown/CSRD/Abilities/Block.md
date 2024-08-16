@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Speed
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Block  
-You automatically block the next melee attack made against you within the next minute. Action to initiate. 
+>3  Speed  
+  
+You automatically block the next melee attack made against you within the next minute. Action to initiate.

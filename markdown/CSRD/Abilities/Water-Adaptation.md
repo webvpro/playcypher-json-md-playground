@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/CURE
+- Ability/Categories/Cure
 ---
 
   
 ## Water Adaptation  
-You can breathe water as easily as you breathe air. Enabler. 
+You can breathe water as easily as you breathe air. Enabler.

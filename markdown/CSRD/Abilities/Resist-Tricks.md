@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Resist Tricks  
-You're trained in solving puzzles and recognizing tricks from years of game playing. Enabler. 
+You're trained in solving puzzles and recognizing tricks from years of game playing. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Capable Warrior  
-Your attacks deal 1 additional point of damage. Enabler. 
+Your attacks deal 1 additional point of damage. Enabler.

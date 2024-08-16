@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/ATTACK SKILL
+- Ability/Categories/Attack-Skill
 ---
 
   
 ## Specialized Throwing  
-You are specialized in attacks with all weapons that you throw. Enabler. 
+You are specialized in attacks with all weapons that you throw. Enabler.

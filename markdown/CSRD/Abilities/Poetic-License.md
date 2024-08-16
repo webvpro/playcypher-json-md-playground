@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Poetic License  
-You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. Enabler. 
+You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. Enabler.

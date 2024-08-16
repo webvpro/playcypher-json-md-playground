@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Two Things at Once  
-The ultimate test: you divide your attention and take two separate actions this round. Enabler. 
+>6+  Intellect  
+  
+The ultimate test: you divide your attention and take two separate actions this round. Enabler.

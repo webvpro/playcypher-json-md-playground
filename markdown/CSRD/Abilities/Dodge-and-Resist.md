@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Speed
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Dodge and Resist  
-You can reroll any of your Might, Speed, or Intellect defense rolls and take the better of the two results. Enabler. 
+>3+  Speed  
+  
+You can reroll any of your Might, Speed, or Intellect defense rolls and take the better of the two results. Enabler.

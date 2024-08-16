@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Might
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Impressive Display  
-You perform a feat of strength, speed, or combat, impressing those nearby. For the next minute you gain an asset on all interaction tasks with people who saw you use this ability. Action. 
+>2  Might  
+  
+You perform a feat of strength, speed, or combat, impressing those nearby. For the next minute you gain an asset on all interaction tasks with people who saw you use this ability. Action.

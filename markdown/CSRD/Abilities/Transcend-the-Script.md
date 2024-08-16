@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Transcend the Script  
-Whether they are lines you wrote, acted, reported on, or otherwise incorporated into your talent, you compose an oratory on the fly that is so wonderful that even you believe it. For each ally who hears it (and you too), a task attempted within the next hour is eased by two steps. Action. 
+>5  Intellect  
+  
+Whether they are lines you wrote, acted, reported on, or otherwise incorporated into your talent, you compose an oratory on the fly that is so wonderful that even you believe it. For each ally who hears it (and you too), a task attempted within the next hour is eased by two steps. Action.

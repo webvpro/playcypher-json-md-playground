@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Enhanced Intellect Edge  
-You gain +1 to your Intellect Edge. Enabler. 
+You gain +1 to your Intellect Edge. Enabler.

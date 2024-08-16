@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/4
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/MOVEMENT
+- Ability/Categories/Movement
 ---
 
   
 ## Bolt Rider  
-You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers. Action. 
+>4  Intellect  
+  
+You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers. Action.

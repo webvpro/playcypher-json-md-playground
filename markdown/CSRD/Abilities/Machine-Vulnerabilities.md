@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Machine Vulnerabilities  
-You inflict 3 additional points of damage against robots and animate machines of all kinds. Enabler. 
+You inflict 3 additional points of damage against robots and animate machines of all kinds. Enabler.

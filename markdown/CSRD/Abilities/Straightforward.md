@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Straightforward  
-You are trained in one of the following tasks (choose one): breaking things, climbing, jumping, or running. Enabler. 
+You are trained in one of the following tasks (choose one): breaking things, climbing, jumping, or running. Enabler.

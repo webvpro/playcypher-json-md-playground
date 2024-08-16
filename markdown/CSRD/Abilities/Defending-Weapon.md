@@ -11,4 +11,4 @@ tags:
 
   
 ## Defending Weapon  
-When using your enchanted weapon, you are trained in Speed defense tasks. Enabler. 
+When using your enchanted weapon, you are trained in Speed defense tasks. Enabler.

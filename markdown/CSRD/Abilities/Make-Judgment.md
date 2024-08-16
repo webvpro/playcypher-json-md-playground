@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Make Judgment  
-You are trained in discerning the truth of a situation, seeing through lies, or otherwise overcoming deception. Enabler. 
+You are trained in discerning the truth of a situation, seeing through lies, or otherwise overcoming deception. Enabler.

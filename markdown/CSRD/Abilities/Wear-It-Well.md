@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Wear It Well  
-When you wear armor of any kind, you gain an additional +1 to Armor. Enabler. 
+When you wear armor of any kind, you gain an additional +1 to Armor. Enabler.

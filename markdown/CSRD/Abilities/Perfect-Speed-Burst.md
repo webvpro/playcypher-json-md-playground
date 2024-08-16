@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Speed
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Perfect Speed Burst  
-You can take two separate actions this round. Enabler. 
+>6+  Speed  
+  
+You can take two separate actions this round. Enabler.

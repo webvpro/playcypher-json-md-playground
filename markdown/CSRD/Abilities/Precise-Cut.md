@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Precise Cut  
-You inflict 1 additional point of damage with light weapons. Enabler. 
+You inflict 1 additional point of damage with light weapons. Enabler.

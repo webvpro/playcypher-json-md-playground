@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Oneirochemy  
-You are trained in tasks related to sleep and mixing natural elixirs to help creatures fall asleep. Enabler. 
+You are trained in tasks related to sleep and mixing natural elixirs to help creatures fall asleep. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Master Thief  
-You are trained in climbing, escaping from bonds, slipping through narrow places, and other contortionist moves. Enabler. 
+You are trained in climbing, escaping from bonds, slipping through narrow places, and other contortionist moves. Enabler.

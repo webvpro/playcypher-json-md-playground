@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/COMPANION
+- Ability/Categories/Companion
 ---
 
   
 ## Band of Followers  
-You gain four level 3 followers. They are not restricted on their modifications. Enabler. 
+You gain four level 3 followers. They are not restricted on their modifications. Enabler.

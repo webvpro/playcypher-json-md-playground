@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Mastery in Armor  
-The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed Effort cost for wearing armor to 0. Enabler. 
+The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed Effort cost for wearing armor to 0. Enabler.

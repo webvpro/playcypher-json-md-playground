@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Anticipation  
-You look ahead to see how your actions might unfold. The first task you perform before the end of the next round gains an asset. Action. 
+>1  Intellect  
+  
+You look ahead to see how your actions might unfold. The first task you perform before the end of the next round gains an asset. Action.

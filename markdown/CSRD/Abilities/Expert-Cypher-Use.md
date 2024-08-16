@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Expert Cypher Use  
-You can bear three cyphers at a time. Enabler. 
+You can bear three cyphers at a time. Enabler.

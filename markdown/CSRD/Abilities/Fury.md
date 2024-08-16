@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Might
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Fury  
-For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate. 
+>3  Might  
+  
+For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.

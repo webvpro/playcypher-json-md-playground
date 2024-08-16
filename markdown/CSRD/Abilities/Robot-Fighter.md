@@ -7,10 +7,10 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/ATTACK SKILL
-- Ability/Categories/PROTECTION
+- Ability/Categories/Attack-Skill
+- Ability/Categories/Protection
 ---
 
   
 ## Robot Fighter  
-When fighting a robot or intelligent machine, you are trained in attacks and defense. Enabler. 
+When fighting a robot or intelligent machine, you are trained in attacks and defense. Enabler.

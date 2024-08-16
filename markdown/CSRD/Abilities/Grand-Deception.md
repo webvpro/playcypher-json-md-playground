@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/CONTROL
+- Ability/Categories/Control
 ---
 
   
 ## Grand Deception  
-You convince an intelligent creature that can understand you and isn't hostile of something that is wildly and obviously untrue. Action. 
+>3  Intellect  
+  
+You convince an intelligent creature that can understand you and isn't hostile of something that is wildly and obviously untrue. Action.

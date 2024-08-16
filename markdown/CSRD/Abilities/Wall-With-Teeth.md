@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Wall With Teeth  
-You inflict 2 additional points of damage with all attacks when using your Living Wall ability. Enabler. 
+You inflict 2 additional points of damage with all attacks when using your Living Wall ability. Enabler.

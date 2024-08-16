@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Mid
 - Ability/Pool/Intellect
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Intense Interaction  
-You gain an asset on intimidating, persuading, and influencing people for ten minutes. Action. 
+>3  Intellect  
+  
+You gain an asset on intimidating, persuading, and influencing people for ten minutes. Action.

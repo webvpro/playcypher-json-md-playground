@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/ATTACK SKILL
+- Ability/Categories/Attack-Skill
 ---
 
   
 ## Practiced With Medium Weapons  
-You can use light and medium weapons without penalty. If you wield a heavy weapon, attacks with it are hindered. Enabler. 
+You can use light and medium weapons without penalty. If you wield a heavy weapon, attacks with it are hindered. Enabler.

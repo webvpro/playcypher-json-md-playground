@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Hold Breath  
-You can hold your breath for up to five minutes. Enabler. 
+You can hold your breath for up to five minutes. Enabler.

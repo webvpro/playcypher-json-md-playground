@@ -7,9 +7,9 @@ tags:
 - Ability/ACTION
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Crystal Lens  
-You can focus the inherent energy surging through you from your Crystalline Body ability. This allows you to fire a blast of energy that inflicts 5 points of damage on a target within very long range. Action. 
+You can focus the inherent energy surging through you from your Crystalline Body ability. This allows you to fire a blast of energy that inflicts 5 points of damage on a target within very long range. Action.

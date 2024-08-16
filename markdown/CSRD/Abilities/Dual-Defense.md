@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Dual Defense  
-When you wield two weapons, you are trained in Speed defense tasks. Enabler. 
+When you wield two weapons, you are trained in Speed defense tasks. Enabler.

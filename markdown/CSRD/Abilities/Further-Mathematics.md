@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Further Mathematics  
-You are specialized in higher mathematics. If you are already specialized, choose some other sphere of knowledge to become trained in. Enabler. 
+You are specialized in higher mathematics. If you are already specialized, choose some other sphere of knowledge to become trained in. Enabler.

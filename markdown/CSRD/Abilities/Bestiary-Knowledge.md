@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Bestiary Knowledge  
-You are trained in the lore of flesh-eating, nonhumanoid creatures-recognizing them, knowing their weaknesses, and knowing their habits and behaviors. Enabler. 
+You are trained in the lore of flesh-eating, nonhumanoid creatures-recognizing them, knowing their weaknesses, and knowing their habits and behaviors. Enabler.

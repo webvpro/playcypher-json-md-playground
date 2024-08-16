@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Nimble Swimmer  
-You are trained in all defense actions while underwater. Enabler. 
+You are trained in all defense actions while underwater. Enabler.

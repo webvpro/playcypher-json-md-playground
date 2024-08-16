@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Master Cypher Use  
-You can bear five cyphers at a time. Enabler. 
+You can bear five cyphers at a time. Enabler.

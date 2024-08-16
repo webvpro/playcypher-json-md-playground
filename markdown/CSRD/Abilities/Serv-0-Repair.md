@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Serv-0 Repair  
-Your Serv-0 aids you in repairing other devices. It gains a modification in repair. Enabler. 
+Your Serv-0 aids you in repairing other devices. It gains a modification in repair. Enabler.

@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/4
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Work the Friendship  
-You know just what to say to draw a little extra effort from an ally. This grants one creature you choose within short range an additional, immediate action, which it can take out of turn. The creature uses the additional action however it wishes. Action. 
+>4  Intellect  
+  
+You know just what to say to draw a little extra effort from an ally. This grants one creature you choose within short range an additional, immediate action, which it can take out of turn. The creature uses the additional action however it wishes. Action.

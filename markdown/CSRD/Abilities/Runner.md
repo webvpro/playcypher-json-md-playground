@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/MOVEMENT
+- Ability/Categories/Movement
 ---
 
   
 ## Runner  
-Your standard movement increases from short to long. Enabler. 
+Your standard movement increases from short to long. Enabler.

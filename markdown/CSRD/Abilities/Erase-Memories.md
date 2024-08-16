@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Erase Memories  
-You reach into the mind of a creature within immediate range and make an Intellect roll. On a success, you erase up to the last five minutes of its memory. Action. 
+>3  Intellect  
+  
+You reach into the mind of a creature within immediate range and make an Intellect roll. On a success, you erase up to the last five minutes of its memory. Action.

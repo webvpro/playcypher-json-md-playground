@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Ray of Confusion  
-You project a grey beam of confusion at a creature within short range, inflicting 1 point of damage that ignores Armor. In addition, until the end of the next round, all tasks, attacks, and defenses the target attempts are hindered. Action. 
+>2  Intellect  
+  
+You project a grey beam of confusion at a creature within short range, inflicting 1 point of damage that ignores Armor. In addition, until the end of the next round, all tasks, attacks, and defenses the target attempts are hindered. Action.

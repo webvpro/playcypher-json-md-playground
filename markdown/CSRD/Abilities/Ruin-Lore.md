@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Ruin Lore  
-You are trained in scavenging, which means you're more likely to find useful things, and junk that can potentially be turned into useful things in the ruins of what came before. Enabler. 
+You are trained in scavenging, which means you're more likely to find useful things, and junk that can potentially be turned into useful things in the ruins of what came before. Enabler.

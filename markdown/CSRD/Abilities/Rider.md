@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Rider  
-You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. Enabler. 
+You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. Enabler.

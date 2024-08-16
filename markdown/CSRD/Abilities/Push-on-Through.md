@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Might
-- Ability/Categories/CURE
+- Ability/Categories/Cure
 ---
 
   
 ## Push on Through  
-You ignore the effects of terrain while moving for one hour. Enabler. 
+>2+  Might  
+  
+You ignore the effects of terrain while moving for one hour. Enabler.

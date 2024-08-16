@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Adroit Cypher Use  
-You can bear four cyphers at a time. Enabler. 
+You can bear four cyphers at a time. Enabler.

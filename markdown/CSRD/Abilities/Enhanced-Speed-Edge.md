@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Enhanced Speed Edge  
-You gain +1 to your Speed Edge. Enabler. 
+You gain +1 to your Speed Edge. Enabler.

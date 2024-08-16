@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/5
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Assassin Strike  
-If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. Enabler. 
+>5+  Intellect  
+  
+If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. Enabler.

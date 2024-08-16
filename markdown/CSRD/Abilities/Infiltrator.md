@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Infiltrator  
-You are trained in interactions involving lies or trickery. Enabler. 
+You are trained in interactions involving lies or trickery. Enabler.

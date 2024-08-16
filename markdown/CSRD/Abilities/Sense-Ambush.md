@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/SENSES
+- Ability/Categories/Senses
 ---
 
   
 ## Sense Ambush  
-You are never surprised by an attack. Enabler. 
+You are never surprised by an attack. Enabler.

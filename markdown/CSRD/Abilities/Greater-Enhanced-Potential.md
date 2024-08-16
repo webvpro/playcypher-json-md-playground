@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Greater Enhanced Potential  
-You gain 6 points to divide among your stat Pools however you wish. Enabler. 
+You gain 6 points to divide among your stat Pools however you wish. Enabler.

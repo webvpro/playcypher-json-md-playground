@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Hard Choices  
-Sometimes, you believe that you've got to lie to those who trust you for their own good. You are specialized in deception tasks. Enabler. 
+Sometimes, you believe that you've got to lie to those who trust you for their own good. You are specialized in deception tasks. Enabler.

@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Machine Interface  
-For one minute you gain an asset on tasks to discern the level, function, and activation of technological devices that you touch. Enabler. 
+>2+  Intellect  
+  
+For one minute you gain an asset on tasks to discern the level, function, and activation of technological devices that you touch. Enabler.

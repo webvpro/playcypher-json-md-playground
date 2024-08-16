@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Trained Slayer  
-You are trained in using swords. Enabler. 
+You are trained in using swords. Enabler.

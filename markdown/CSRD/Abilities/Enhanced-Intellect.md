@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Enhanced Intellect  
-You gain 3 points to your Intellect Pool. Enabler. 
+You gain 3 points to your Intellect Pool. Enabler.

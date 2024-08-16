@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Just a Bit Mad  
-You are trained in Intellect defense tasks. Enabler. 
+You are trained in Intellect defense tasks. Enabler.

@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/8
 - Ability/Tier/High
 - Ability/Pool/Speed
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Again and Again  
-You can take an additional action in a round in which you have already acted. Enabler. 
+>8+  Speed  
+  
+You can take an additional action in a round in which you have already acted. Enabler.

@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/7
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Divide Your Mind  
-You split your consciousness into two parts. For one minute, you can take two actions on each of your turns, but only one of them can be to use a special ability. Action. 
+>7  Intellect  
+  
+You split your consciousness into two parts. For one minute, you can take two actions on each of your turns, but only one of them can be to use a special ability. Action.

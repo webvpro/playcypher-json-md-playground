@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Knowing  
-You are trained in one area of knowledge of your choice. Enabler. 
+You are trained in one area of knowledge of your choice. Enabler.

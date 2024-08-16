@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Tough It Out  
-Working for a living has toughened you over time. You have +1 to Armor against any kind of physical damage, even damage that normally ignores Armor. Enabler. 
+Working for a living has toughened you over time. You have +1 to Armor against any kind of physical damage, even damage that normally ignores Armor. Enabler.

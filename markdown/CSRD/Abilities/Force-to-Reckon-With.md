@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/ENVIRONMENT
+- Ability/Categories/Environment
 ---
 
   
 ## Force to Reckon With  
-You can break through force fields and energy barriers as if they were physical walls. Enabler. 
+You can break through force fields and energy barriers as if they were physical walls. Enabler.

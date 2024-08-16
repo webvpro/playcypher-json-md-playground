@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Damage Dealer  
-You inflict an additional 3 points of damage with your chosen weapon. Enabler. 
+You inflict an additional 3 points of damage with your chosen weapon. Enabler.

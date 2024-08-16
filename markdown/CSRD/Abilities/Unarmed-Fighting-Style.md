@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/ATTACK SKILL
+- Ability/Categories/Attack-Skill
 ---
 
   
 ## Unarmed Fighting Style  
-You are trained in unarmed attacks. Enabler. 
+You are trained in unarmed attacks. Enabler.

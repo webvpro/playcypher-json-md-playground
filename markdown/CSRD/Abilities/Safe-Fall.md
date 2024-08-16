@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Safe Fall  
-You reduce the damage from a fall by 5 points. Enabler. 
+You reduce the damage from a fall by 5 points. Enabler.

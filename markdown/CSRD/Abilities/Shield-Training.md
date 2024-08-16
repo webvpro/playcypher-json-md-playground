@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Shield Training  
-If you use a shield, Speed defense tasks are eased by two steps instead of one. Enabler. 
+If you use a shield, Speed defense tasks are eased by two steps instead of one. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Superb Explorer  
-You are trained in searching, listening, climbing, balancing, and jumping tasks. Enabler. 
+You are trained in searching, listening, climbing, balancing, and jumping tasks. Enabler.

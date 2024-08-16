@@ -11,4 +11,4 @@ tags:
 
   
 ## Patient Recovery  
-You gain an extra ten-minute recovery roll each day. Enabler. 
+You gain an extra ten-minute recovery roll each day. Enabler.

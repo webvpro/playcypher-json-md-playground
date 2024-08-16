@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Speed
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Danger Sense  
-Your initiative task is eased. You pay the cost each time the ability is used. Enabler. 
+>1+  Speed  
+  
+Your initiative task is eased. You pay the cost each time the ability is used. Enabler.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## How Others Think  
-You have a sense of how people think. You're trained in one of the following tasks: persuasion, deception, or detecting falsehoods. Enabler. 
+You have a sense of how people think. You're trained in one of the following tasks: persuasion, deception, or detecting falsehoods. Enabler.

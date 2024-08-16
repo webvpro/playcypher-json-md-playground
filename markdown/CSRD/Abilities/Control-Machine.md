@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/6
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/CONTROL
+- Ability/Categories/Control
 ---
 
   
 ## Control Machine  
-You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes. Action. 
+>6  Intellect  
+  
+You can attempt to control the functions of any machine, intelligent or otherwise, within short range for ten minutes. Action.

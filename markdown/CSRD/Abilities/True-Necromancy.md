@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/8
 - Ability/Tier/High
 - Ability/Pool/Intellect
-- Ability/Categories/COMPANION
+- Ability/Categories/Companion
 ---
 
   
 ## True Necromancy  
-This ability works like the Necromancy ability except that it creates a level 5 creature. Action to animate. 
+>8  Intellect  
+  
+This ability works like the Necromancy ability except that it creates a level 5 creature. Action to animate.

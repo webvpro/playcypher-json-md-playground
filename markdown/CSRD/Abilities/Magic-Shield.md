@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/PROTECTION
+- Ability/Categories/Protection
 ---
 
   
 ## Magic Shield  
-You gain +1 to Armor for an hour. Action to initiate. 
+>1  Intellect  
+  
+You gain +1 to Armor for an hour. Action to initiate.

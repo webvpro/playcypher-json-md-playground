@@ -7,9 +7,9 @@ tags:
 - Ability/ACTION
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Applying Your Knowledge  
-When you help another character undertake any action that you're untrained in, you are treated as if you are trained in it. Action. 
+When you help another character undertake any action that you're untrained in, you are treated as if you are trained in it. Action.

@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Gunner  
-You inflict 1 additional point of damage with guns. Enabler. 
+You inflict 1 additional point of damage with guns. Enabler.

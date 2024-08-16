@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Low
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Driving on the Edge  
-You can make an attack with a light or medium ranged weapon and attempt a driving task as a single action. Enabler. 
+You can make an attack with a light or medium ranged weapon and attempt a driving task as a single action. Enabler.

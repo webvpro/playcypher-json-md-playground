@@ -7,10 +7,10 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/META
-- Ability/Categories/PROTECTION
+- Ability/Categories/Meta
+- Ability/Categories/Protection
 ---
 
   
 ## Hard to Kill  
-You can choose to reroll any defense task you make but never more than once per round. Enabler. 
+You can choose to reroll any defense task you make but never more than once per round. Enabler.

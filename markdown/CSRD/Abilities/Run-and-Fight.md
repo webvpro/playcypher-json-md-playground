@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/4
 - Ability/Tier/Mid
 - Ability/Pool/Might
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Run and Fight  
-You can move a short distance and make a melee attack that inflicts 2 additional points of damage. Action. 
+>4  Might  
+  
+You can move a short distance and make a melee attack that inflicts 2 additional points of damage. Action.

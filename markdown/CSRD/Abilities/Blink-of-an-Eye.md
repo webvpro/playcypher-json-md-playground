@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/4
 - Ability/Tier/Mid
 - Ability/Pool/Speed
-- Ability/Categories/MOVEMENT
+- Ability/Categories/Movement
 ---
 
   
 ## Blink of an Eye  
-You move up to 1,000 feet (300 m) in one round. Action. 
+>4  Speed  
+  
+You move up to 1,000 feet (300 m) in one round. Action.

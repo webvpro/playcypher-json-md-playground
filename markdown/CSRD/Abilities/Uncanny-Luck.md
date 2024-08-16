@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/4
 - Ability/Tier/Mid
 - Ability/Pool/Speed
-- Ability/Categories/META
+- Ability/Categories/Meta
 ---
 
   
 ## Uncanny Luck  
-When you roll for a task and succeed, roll again. If the second number rolled is higher than the first, you get a minor effect. If you roll the same number again, you get a major effect. If you have Uncanny Luck from another source or a similar ability, it's your choice (no roll required) whether you get a minor effect, a major effect, or a free activation of one of your tier 1-3 focus abilities. Enabler. 
+>4+  Speed  
+  
+When you roll for a task and succeed, roll again. If the second number rolled is higher than the first, you get a minor effect. If you roll the same number again, you get a major effect. If you have Uncanny Luck from another source or a similar ability, it's your choice (no roll required) whether you get a minor effect, a major effect, or a free activation of one of your tier 1-3 focus abilities. Enabler.

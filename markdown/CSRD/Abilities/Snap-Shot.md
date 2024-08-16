@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/Mid
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Snap Shot  
-You can make two gun attacks as a single action, but the second attack is hindered by two steps. Enabler. 
+You can make two gun attacks as a single action, but the second attack is hindered by two steps. Enabler.

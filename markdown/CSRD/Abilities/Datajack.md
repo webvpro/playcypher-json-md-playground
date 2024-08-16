@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/1
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/TASK
+- Ability/Categories/Task
 ---
 
   
 ## Datajack  
-With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object. Action. 
+>1  Intellect  
+  
+With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object. Action.

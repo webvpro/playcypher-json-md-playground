@@ -12,4 +12,6 @@ tags:
 
   
 ## Brute Strike  
-You deal 4 additional points of damage with all melee attacks until the end of the next round. Enabler. 
+>4+  Might  
+  
+You deal 4 additional points of damage with all melee attacks until the end of the next round. Enabler.

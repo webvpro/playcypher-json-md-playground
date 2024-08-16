@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/2
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/SUPPORT
+- Ability/Categories/Support
 ---
 
   
 ## Encouraging Presence  
-For one minute, allies within short range gain an asset on defense rolls. Action. 
+>2  Intellect  
+  
+For one minute, allies within short range gain an asset on defense rolls. Action.

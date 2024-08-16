@@ -7,9 +7,9 @@ tags:
 - Ability/ENABLER
 - Ability/Cost/0
 - Ability/Tier/High
-- Ability/Categories/SPECIAL ATTACK
+- Ability/Categories/Special-Attack
 ---
 
   
 ## Attack and Attack Again  
-Rather than granting additional damage or a minor or major effect, a natural 17 or higher on your attack roll allows you the option of immediately making another attack. Enabler. 
+Rather than granting additional damage or a minor or major effect, a natural 17 or higher on your attack roll allows you the option of immediately making another attack. Enabler.

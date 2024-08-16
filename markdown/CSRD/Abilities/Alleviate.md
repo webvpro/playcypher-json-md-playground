@@ -8,9 +8,11 @@ tags:
 - Ability/Cost/3
 - Ability/Tier/Low
 - Ability/Pool/Intellect
-- Ability/Categories/CURE
+- Ability/Categories/Cure
 ---
 
   
 ## Alleviate  
-You attempt to cancel or cure one malady (such as disease or poison) in one creature. Action. 
+>3  Intellect  
+  
+You attempt to cancel or cure one malady (such as disease or poison) in one creature. Action.
