@@ -20,12 +20,12 @@ foci.forEach(fKey =>{
     '- Foci',
     '---',
   ];
-  let content = `${focus.description}  \n ### Intrusion  \n${focus.intrusion}`;
+  let content = `${focus.description}  \n >[!info] Intrusion  \n>${focus.intrusion}`;
   
   //console.log(matter.join("\n"))
    const abilities = Object.keys(focus.abilities);
   //console.log(abilities)
-  let tierAbilities = ['#### Tier 1  '];
+  let tierAbilities = ['\n>[!tip]- Tier 1 Abilities'];
   let tCount = 1;
   
    abilities.forEach(aKey =>{
@@ -34,11 +34,11 @@ foci.forEach(fKey =>{
     const abilityFileName = abilityAliase.split(' ').join('-');
     if (tCount < ability.tier) {
         tCount = ability.tier;
-        tierAbilities.push(`#### Tier ${tCount}  `);
+        tierAbilities.push(`\n>[!tip]- Tier ${tCount} Abilities`);
     } 
-    let orString = ability.preselected ? "* " : "  - "
-    let abilityLink = `${orString}[[${abilityFileName}|${abilityAliase}]]`;
-      tierAbilities.push(abilityLink);
+    let isChoice = ability.preselected ? "" : "- "
+    let abilityLink = `${isChoice}[[${abilityFileName}|${abilityAliase}]]`;
+      tierAbilities.push(`>${abilityLink}`);
   });
   const fileContent = [`${matter.join("\n")}\n\n`,`## ${aliase}`,`${content} `,`${tierAbilities.join("  \n")}`].join("  \n");
   console.log(tierAbilities);

@@ -1865,7 +1865,7 @@
         }
     ],
     "flavors": [
-        {
+                                                                                                   {
             "name": "COMBAT FLAVOR",
             "description": "Combat flavor makes a character more martial. A Speaker with combat flavor in a fantasy setting would be a battle bard. An Explorer with combat flavor in a historical game might be a pirate. An Adept flavored with combat in a science fiction setting could be a veteran of a thousand psychic wars.",
             "abilities": [
@@ -2127,7 +2127,7 @@
                 }
             ]
         },
-        {
+        {                                               
             "name": "SKILLS AND KNOWLEDGE FLAVOR",
             "description": "This flavor is for characters in roles that call for more knowledge and more real-world application of talent. It's less flashy and dramatic than  supernatural powers or the ability to hack apart multiple foes, but sometimes expertise orknow-how is the real solution to a problem. A Warrior flavored with skills and knowledge might be a military engineer. An Explorer flavored with skills and knowledge could be a field scientist. A Speaker with this flavor might be a teacher.",
             "abilities": [
@@ -29584,7 +29584,8 @@
         {
             "name": "AMMUNITION",
             "tags": [
-                "SCAVENGER SUBTLE"
+                "SCAVENGER",
+                "SUBTLE"
             ],
             "level_dice": "1d6",
             "level_mod": 1,

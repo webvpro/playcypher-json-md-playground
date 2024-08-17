@@ -17,7 +17,7 @@ abilities.forEach(aKey =>{
    let tags = [
      `- ${tagPath}`,
      "- Ability",
-     `- Ability/${titleCase(ability.kind)}`,
+     `- Ability/${titleCase(ability.kind.toLowerCase())}`,
      `- Ability/Cost/${cost}`,
      `- Ability/Tier/${tier}`,
    ]
@@ -45,7 +45,7 @@ abilities.forEach(aKey =>{
     '---',
   ];
   const enablerPointAdd = ability.kind === "ENABLER" ? "+ ": " ";
-  const poolCost = ability.cost ? `>${ability.cost}${enablerPointAdd} ${pools.join(", ")}  \n` : ""
+  const poolCost = ability.cost ? `>${ability.kind} ${ability.cost}${enablerPointAdd} ${pools.join(", ")}  \n` : ""
   let content = [`## ${aliase}`];
   if(poolCost) {
     content.push(poolCost)
