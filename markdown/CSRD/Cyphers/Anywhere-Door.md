@@ -11,7 +11,7 @@ tags:
 ## Anywhere Door  
 >[!info] Stats  
 > **Level:** 1d6+3  
-> ***Form: * Chalk, Pen, Pencil, Lipstick, or Marker  
+> **Form:** Chalk, Pen, Pencil, Lipstick, or Marker  
 > **Kind:** FAIRY TALE
   
 Creates a door to anywhere. The door remains for one day, and then disappears. While the door exists, anyone or anything that can discern the door can use it. Erasing the drawn line erases the door.

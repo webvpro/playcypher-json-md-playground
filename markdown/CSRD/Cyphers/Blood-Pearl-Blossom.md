@@ -11,7 +11,7 @@ tags:
 ## Blood Pearl Blossom  
 >[!info] Stats  
 > **Level:** 1d6+4  
-> ***Form: * Rare Blood-Red Flower with a Beautiful Pearl in Its Center  
+> **Form:** Rare Blood-Red Flower with a Beautiful Pearl in Its Center  
 > **Kind:** FAIRY TALE
   
 When ingested, removes one curse (of the cypher level or lower) from the user. The curse-removal process can take from one round to one day, depending on the level, severity, and type of curse.

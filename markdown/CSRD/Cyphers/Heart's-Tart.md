@@ -11,7 +11,7 @@ tags:
 ## Heart's Tart  
 >[!info] Stats  
 > **Level:** 1d6+2  
-> ***Form: * Red Tart in the Shape of a Heart  
+> **Form:** Red Tart in the Shape of a Heart  
 > **Kind:** FAIRY TALE
   
 When eaten, eases all tasks involving stealing, picking pockets, sneaking, running, surprise, and initiative for ten minutes.

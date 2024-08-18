@@ -11,7 +11,7 @@ tags:
 ## Vase of Tears  
 >[!info] Stats  
 > **Level:** 1d6  
-> ***Form: * Vase, Vial, or Jar Filled with Tears  
+> **Form:** Vase, Vial, or Jar Filled with Tears  
 > **Kind:** FAIRY TALE
   
 Breaking the vase creates a protective spell around the character, preventing them from taking any Might damage the next time they are physically attacked.

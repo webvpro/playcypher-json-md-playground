@@ -11,7 +11,7 @@ tags:
 ## Gingerbread Man  
 >[!info] Stats  
 > **Level:** 1d6  
-> ***Form: * Gingerbread Cookie in the Shape of a Human, Lavishly Decorated  
+> **Form:** Gingerbread Cookie in the Shape of a Human, Lavishly Decorated  
 > **Kind:** FAIRY TALE
   
 After eating the cookie, the user has training in Speed defense for the next day.

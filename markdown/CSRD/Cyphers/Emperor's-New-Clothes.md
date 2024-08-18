@@ -11,7 +11,7 @@ tags:
 ## Emperor's New Clothes  
 >[!info] Stats  
 > **Level:** 1d6  
-> ***Form: * Magical Thread Sewn Onto Armor  
+> **Form:** Magical Thread Sewn Onto Armor  
 > **Kind:** FAIRY TALE
   
 For the next day, the armor the thread is attached to is invisible, making the wearer appear to be unarmored.

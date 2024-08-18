@@ -11,7 +11,7 @@ tags:
 ## Pictureless Book  
 >[!info] Stats  
 > **Level:** 1d6  
-> ***Form: * Book without Pictures  
+> **Form:** Book without Pictures  
 > **Kind:** FAIRY TALE
   
 Reading the book aloud for one round causes all who hear it within short range (except the user) to fall into a deep sleep for one round. While they sleep, they have intense dreams and cannot take any other actions. The dreams affect them in one of the following ways. Pictureless book affects NPCs' health instead of their Pools, either restoring them to full health or doing 5 points of damage.  

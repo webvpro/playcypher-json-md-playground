@@ -11,7 +11,7 @@ tags:
 ## Snake Leaves  
 >[!info] Stats  
 > **Level:** 1d6+2  
-> ***Form: * Three Green Leaves  
+> **Form:** Three Green Leaves  
 > **Kind:** FAIRY TALE
   
 When placed upon a person, the leaves restore all Pools to full, move a character one step up the damage track, or bring a dead character back to life. However, the character also gains a permanent 3-point reduction in their maximum Intellect Pool.

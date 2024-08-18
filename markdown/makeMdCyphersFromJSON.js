@@ -46,7 +46,7 @@ cyphers.forEach(cypher =>{
     cypherStats.push(`> **Level:** ${cypherLevel}`)
   }                  
   if (cypher.form) {
-    cypherStats.push(`> ***Form: * ${titleCase(cypher.form.toLowerCase())}`)
+    cypherStats.push(`> **Form:** ${titleCase(cypher.form.toLowerCase())}`)
   }
 
   if (cypher.tags.length > 0) {
