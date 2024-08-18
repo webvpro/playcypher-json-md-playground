@@ -11,7 +11,7 @@ tags:
 ## Poison (Explosive)  
 >[!info] Stats  
 > **Level:** 1d6+1  
-> **Kind:** FANTASTIC
+> **Kind:** Fantastic
   
 Once this substance enters the bloodstream, it travels to the brain and reorganizes into an explosive that detonates when activated, inflicting 10 points of damage (ignores Armor). Roll a d100 to determine what activates the poison.  
 

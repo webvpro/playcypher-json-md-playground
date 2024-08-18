@@ -11,7 +11,7 @@ tags:
 ## Chemical Factory  
 >[!info] Stats  
 > **Level:** 1d6  
-> **Kind:** FANTASTIC
+> **Kind:** Fantastic
   
 After one hour, the sweat of the user produces 1d6 doses of a valuable liquid (these doses are not considered cyphers). They must be used within one week. Roll a d100 to determine the effect.  
 

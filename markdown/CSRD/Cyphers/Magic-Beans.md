@@ -12,6 +12,6 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6+4  
 > **Form:** Handful of Magic Beans  
-> **Kind:** FAIRY TALE
+> **Kind:** Fairy Tale
   
 When planted and watered, the beans grow into a giant beanstalk. It's almost impossible to know where the beanstalk leads until you climb it. Climbing the beanstalk is a level 5 task.

@@ -11,7 +11,7 @@ tags:
 ## Poison (Mind Controlling)  
 >[!info] Stats  
 > **Level:** 1d6+2  
-> **Kind:** FANTASTIC
+> **Kind:** Fantastic
   
 The victim must carry out a specific action in response to a specific trigger. Roll a d100 to determine the action.  
 

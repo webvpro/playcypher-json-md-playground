@@ -11,7 +11,7 @@ tags:
 ## Edible Food  
 >[!info] Stats  
 > **Level:** 1d6+1  
-> **Kind:** SCAVENGER SUBTLE
+> **Kind:** Scavenger Subtle
   
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain. Food obtained is enough to feed one adult for one day, or if coffee is discovered, about a gallon (4 L).  
 

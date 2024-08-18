@@ -12,7 +12,7 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6+3  
 > **Form:** Ruby Red Ring  
-> **Kind:** FAIRY TALE
+> **Kind:** Fairy Tale
   
 When pressed to the lips of a character, beloved's kiss prevents the occurrence of one specific condition of the cypher level or lower. Additionally, it ends any such ongoing effect, if any, in the user's system. Roll a d6 to determine the result.  
 

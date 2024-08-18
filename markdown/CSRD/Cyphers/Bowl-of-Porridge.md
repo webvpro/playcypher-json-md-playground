@@ -12,6 +12,6 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6+3  
 > **Form:** Just-Right Bowl of Porridge  
-> **Kind:** FAIRY TALE
+> **Kind:** Fairy Tale
   
 Restores a number of points equal to the cypher level to the user's Might Pool. Also protects the user from the effects of cold for ten minutes.

@@ -11,6 +11,6 @@ tags:
 ## Acid Resistance  
 >[!info] Stats  
 > **Level:** 1d6+3  
-> **Kind:** FANTASY
+> **Kind:** Fantasy
   
 The user gains Armor against acid damage equal to the cypher's level for one hour.

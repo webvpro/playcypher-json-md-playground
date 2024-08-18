@@ -12,6 +12,6 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6+4  
 > **Form:** Rare Blood-Red Flower with a Beautiful Pearl in Its Center  
-> **Kind:** FAIRY TALE
+> **Kind:** Fairy Tale
   
 When ingested, removes one curse (of the cypher level or lower) from the user. The curse-removal process can take from one round to one day, depending on the level, severity, and type of curse.

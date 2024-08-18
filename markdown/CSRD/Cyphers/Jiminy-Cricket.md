@@ -12,6 +12,6 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6  
 > **Form:** Small Wooden or Metal Cricket  
-> **Kind:** FAIRY TALE
+> **Kind:** Fairy Tale
   
 Allows the user to retry a task that they failed within the past minute, using the same difficulty and modifiers.

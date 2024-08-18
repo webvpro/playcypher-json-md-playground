@@ -11,7 +11,7 @@ tags:
 ## Gas Bomb  
 >[!info] Stats  
 > **Level:** 1d6+2  
-> **Kind:** MANIFEST
+> **Kind:** Manifest
   
 Thrown a short distance, this bursts in a poisonous cloud within an immediate area. The cloud lingers for 1d6 rounds unless conditions dictate otherwise. Roll a d100 to determine the effect.  
 

@@ -11,6 +11,6 @@ tags:
 ## Speed Boost  
 >[!info] Stats  
 > **Level:** 1d6+2  
-> **Kind:** SUBTLE
+> **Kind:** Subtle
   
 Adds 1 to the user's Speed Edge for one hour (adds 2 if the cypher is level 5 or higher).

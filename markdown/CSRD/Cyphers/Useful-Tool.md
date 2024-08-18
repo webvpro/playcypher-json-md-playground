@@ -11,7 +11,7 @@ tags:
 ## Useful Tool  
 >[!info] Stats  
 > **Level:** 1d6+1  
-> **Kind:** SCAVENGER SUBTLE
+> **Kind:** Scavenger Subtle
   
 One of the following items is gained; roll randomly. If the cypher's level is 6 or higher, the character can choose which item they obtain. The right tool or tools for the job provide an asset to related tasks.  
 

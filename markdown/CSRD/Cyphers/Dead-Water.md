@@ -12,6 +12,6 @@ tags:
 >[!info] Stats  
 > **Level:** 1d6+3  
 > **Form:** Vial, Pot, or Jar of Black Liquid  
-> **Kind:** FAIRY TALE
+> **Kind:** Fairy Tale
   
 Brings a character back to life. However, they come back with a permanent 3-point reduction in their maximum Might Pool.

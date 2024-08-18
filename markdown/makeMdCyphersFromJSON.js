@@ -50,7 +50,7 @@ cyphers.forEach(cypher =>{
   }
 
   if (cypher.tags.length > 0) {
-    cypherStats.push(`> **Kind:** ${cypher.tags.join(", ")}`)  
+    cypherStats.push(`> **Kind:** ${titleCase(cypher.tags.join(" ,").toLowerCase())}`)  
   }  
   if(cypherStats.length > 1) {
     content.push(`${cypherStats.join("  \n")}\n`)

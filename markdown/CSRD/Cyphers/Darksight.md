@@ -11,6 +11,6 @@ tags:
 ## Darksight  
 >[!info] Stats  
 > **Level:** 1d6  
-> **Kind:** SUBTLE
+> **Kind:** Subtle
   
 Grants the ability to see in the dark for five hours per cypher level. (For a more realistic game, this cypher could instead make the user specialized in low-light spotting.)

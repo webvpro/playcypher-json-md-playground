@@ -11,7 +11,7 @@ tags:
 ## Armor Reinforcer  
 >[!info] Stats  
 > **Level:** 1d6+1  
-> **Kind:** MANIFEST
+> **Kind:** Manifest
   
 The user's Armor gains an enhancement for twenty-four hours. Roll a d6 to determine the result.  
 
