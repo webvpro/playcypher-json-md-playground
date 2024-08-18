@@ -18,7 +18,6 @@ cyphers.forEach(cypher =>{
      `- ${tagPath}`,
      "- Cypher",
    ]
-  
    if (Array.isArray(cypher.tags)) {
       cypher.tags.forEach((tag)=>{
         tags.push(`- Cypher/${titleCase(tag.toLowerCase().trim()).split(" ").join("-")}`)
@@ -37,15 +36,25 @@ cyphers.forEach(cypher =>{
 
   
   let content = [`## ${aliase}`];
-  const cypherLevelDice = cypher.level_dice ? `Level: ${cypher.level_dice}` : "";
+  const cypherStats = []
+  const cypherLevelDice = cypher.level_dice ? `${cypher.level_dice}` : "";
   const cypherLevelMod = cypher.level_mod > 0 ? `+${cypher.level_mod}` : "";
   const cypherLevel = `${cypherLevelDice}${cypherLevelMod}`;
+    
+  cypherStats.push(`>[!info] Stats`) 
   if (cypherLevel.trim()) {
-     content.push(`>${cypherLevel}  \n`)
-  }
+    cypherStats.push(`> **Level:** ${cypherLevel}`)
+  }                  
   if (cypher.form) {
-    content.push(`>[!info] Form  \n>${titleCase(cypher.form.toLowerCase().trim())}\n`)                                                                                       
-}
+    cypherStats.push(`> ***Form: * ${titleCase(cypher.form.toLowerCase())}`)
+  }
+
+  if (cypher.tags.length > 0) {
+    cypherStats.push(`> **Kind:** ${cypher.tags.join(", ")}`)  
+  }  
+  if(cypherStats.length > 1) {
+    content.push(`${cypherStats.join("  \n")}\n`)
+  }
   content.push(`${cypher.effect}`);
 
   if (Array.isArray(cypher.options) && cypher.options.length > 0) {

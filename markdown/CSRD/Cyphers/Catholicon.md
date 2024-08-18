@@ -9,6 +9,8 @@ tags:
 
   
 ## Catholicon  
->Level: 1d6+2  
+>[!info] Stats  
+> **Level:** 1d6+2  
+> **Kind:** MANIFEST
   
 Cures any disease of the cypher level or lower.
