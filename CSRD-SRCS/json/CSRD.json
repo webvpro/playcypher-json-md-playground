@@ -45093,7 +45093,7 @@
             ]
         },
         {
-            "name": "Alcohol/drugs",
+            "name": "Alcohol and Drugs",
             "variants": [
                 {
                     "description": "Common intoxicants taken in moderation can raise spirits, easing tasks related to social interaction while at the same time hindering tasks related to perception and physical coordination. Excessive amounts cancel out the benefit to social interaction and hinder all tasks by two or more steps, making even routine tasks a challenge. Extended excessive use can lead to addiction, a long-term disease difficult to recover from.",
@@ -45854,7 +45854,7 @@
             ]
         },
         {
-            "name": "Bicycle/skateboard/inline skates",
+            "name": "Bicycle or skateboard or inline skates",
             "variants": [
                 {
                     "description": "Use requires same attention as other vehicular movement",
@@ -46615,7 +46615,7 @@
             ]
         },
         {
-            "name": "Car, temporal/dimensional",
+            "name": "Car, temporal or dimensional",
             "variants": [
                 {
                     "description": "As contemporary utility car or sports car, but once moving can transition into another preset dimension or time. Enormous power requirements require recharge period of several days between each use.",
@@ -46677,7 +46677,7 @@
             ]
         },
         {
-            "name": "Card/tabletop/digital game",
+            "name": "Card tabletop digital game",
             "variants": [
                 {
                     "description": "Suitable for passing the time and building bonds between friends and strangers alike.",
@@ -47014,7 +47014,7 @@
             ]
         },
         {
-            "name": "Communicator, badge/ring",
+            "name": "Communicator, badge ring",
             "variants": [
                 {
                     "description": "As satellite phone, but so small it can be worn as a stylish insignia or badge on a cuff, chest, pendant, or carried in a pocket; as a ring worn on a finger, earlobe, or other pierced appropriate or pierced body part; or threaded into a tattoo on wrist or back of hand. Has full voice functionality, including on-the-fly translation (for languages in a network-connected database), and audibly duplicates most smartphone functions.",
@@ -47034,7 +47034,7 @@
             ]
         },
         {
-            "name": "Computer/Laptop",
+            "name": "Computer Laptop",
             "variants": [
                 {
                     "description": "A data processing and data-access tool that enables all sorts of creative and comprehension tasks.",
@@ -48758,7 +48758,7 @@
                 {
                     "description": "rifle",
                     "notes": [
-                        "300-foot (90 m) range",
+                        "Long range",
                         "Heavy weapon"
                     ],
                     "tags": [
@@ -49457,7 +49457,7 @@
             ]
         },
         {
-            "name": "Ladder (10 ft/3m)",
+            "name": "Ladder 10 ft 3m",
             "variants": [
                 {
                     "description": "",
@@ -49589,7 +49589,7 @@
             ]
         },
         {
-            "name": "Laser/photon pistol",
+            "name": "Laser photon pistol",
             "variants": [
                 {
                     "description": "Handgun fires coherent light beams;",
@@ -49612,7 +49612,7 @@
             ]
         },
         {
-            "name": "Laser/photon pulse rifle",
+            "name": "Laser photon pulse rifle",
             "variants": [
                 {
                     "description": "Rifle fires coherent light beams;",
@@ -49636,7 +49636,7 @@
             ]
         },
         {
-            "name": "Laser/photon rifle",
+            "name": "Laser photon rifle",
             "variants": [
                 {
                     "description": "Rifle fires coherent light beams;",
@@ -50815,7 +50815,7 @@
             ]
         },
         {
-            "name": "Needler/syringer",
+            "name": "Needler syringer",
             "variants": [
                 {
                     "description": "Injects soporific that dazes target on a successful Might defense roll for one minute, or puts them into a light sleep for one minute on a failed roll.",
@@ -52266,7 +52266,7 @@
             ]
         },
         {
-            "name": "Shopping cart/wheelbarrow",
+            "name": "Shopping cart wheelbarrow",
             "variants": [
                 {
                     "description": "",
@@ -52994,7 +52994,7 @@
             ]
         },
         {
-            "name": "Starship, cargo/passenger",
+            "name": "Starship, cargo passenger",
             "variants": [
                 {
                     "description": "A spacecraft designed to haul cargo (or passengers, or both) between stars with a crew up of to twenty-five. Cargo starships may be impressively massive, or at least haul cargo sections that are quite large, but these craft are bulky and not meant for quick changes in direction or combat; all maneuvering and combat tasks are hindered.",

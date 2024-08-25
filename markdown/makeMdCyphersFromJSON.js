@@ -10,7 +10,7 @@ const tagPath = 'Compendium/CSRD/en/Cyphers'
 
 cyphers.forEach(cypher =>{
   
-   const aliase = titleCase(cypher.name.toLowerCase()).trim();
+   const aliase = titleCase(cypher.name.toLowerCase()).trim().trim().split("(").join("").split(")").join("");
    const fileName = aliase.split(' ').join('-').split("/").join("-");
                                                                                                
 

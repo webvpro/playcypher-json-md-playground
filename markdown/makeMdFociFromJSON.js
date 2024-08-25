@@ -1,46 +1,98 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { titleCase } from "title-case";
 
-const CSRDJSON = readFileSync('../CSRD-SRCS/json/CSRD_LATEST.json');
+const CSRDJSON = readFileSync('../CSRD-SRCS/json/CSRD.json');
 const CSRD = JSON.parse(CSRDJSON);
 
-const foci = Object.keys(CSRD.foci.data);
+const foci = CSRD.foci;
 const filePath = '../markdown/CSRD/Foci/';
 
-foci.forEach(fKey =>{
-   const focus =  CSRD.foci.data[fKey];
-   const aliase = titleCase(focus.name.trim());
-   const fileName = aliase.split(' ').join('-');
+const getAbilitiesByTier = (tier, abilityAry) => {
+  const tierAbilityObj = {granted:[],selections:[]}
+  abilityAry.filter( ability => {
+      return ability.tier === tier
+  }).forEach( tierAbility =>{
+      const abilityKey = titleCase(tierAbility.name.trim().toLowerCase()).split(' ').join('-')
+      tierAbility.preselected ? tierAbilityObj.granted.push(abilityKey) : tierAbilityObj.selections.push(abilityKey)
+  })
+  return  tierAbilityObj 
+}
+
+
+
+foci.forEach(focus =>{
+    const aliase = titleCase(focus.name.toLowerCase());
+    const fileName = aliase.split(' ').join('-');
   
-   let matter = [
+    let matter = [
     '---',
     `aliases:`,
     `- ${aliase}`,
     `tags:`,
     '- Foci',
     '---',
-  ];
-  let content = `${focus.description}  \n >[!info] Intrusion  \n>${focus.intrusion}`;
+    ];
+    let content = [`## ${aliase}`];
+    content.push(`${focus.description}`)
+    if (focus.note) {
+      content.push(`\n>[!note] Note  \n>${focus.note} \n`)
+    }
+
+    if (focus.connections.length > 0) {
+      content.push("\n>[!info]- Connections  \n>Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.");
+      focus.connections.forEach((connection)=>{
+       content.push(`>- ${connection}`)
+      })
+    }
+
+    if (focus.intrusions) {
+      content.push(`\n>[!info] Intrusions`)
+      focus.intrusions.split(".").forEach((intrusion) => {
+        if (intrusion.trim().length > 0) {
+          content.push(`>- ${intrusion.trim()}.`)
+        }
+      })
+    }
+
+    if (focus.minor_effect) {
+      content.push(`\n>[!info] Effects  \n>**Minor,** ${focus.minor_effect}`)
+      content.push(`>**Major,** ${focus.major_effect}`)
+    }
+    
+    if (focus.additional_equipment) {
+      content.push(`\n>[!info] Additional Equipment  \n>${focus.additional_equipment}`)
+    }
+
+    const abilities = focus.abilities;
+    const tierLimit = 6;
+    if (abilities.length > 0) {
+      for (let t = 0; t < tierLimit; t++) {
+        content.push(`\n\n>[!tip]- Tier ${t+1} Abilities`)
+        const {granted, selections} = getAbilitiesByTier(t+1, abilities)
+        
+        if (granted.length > 0) {
+        granted.forEach((ability)=> {
+          const abilityName = titleCase(ability.toLowerCase());
+          content.push(`> [[${abilityName}\|${abilityName.split("-").join(" ")}]]`)
+        })
+        }
+        if (selections.length > 0) {
+          content.push(`> **Choose One**`)
+          selections.forEach((choice) => {
+            const abilityName = titleCase(choice);
+            content.push(`>- [[${abilityName.split(" ").join("-")}\|${abilityName.split("-").join(" ")}]]`)
+          })
+        }
+      }
+    }
+    
+    
+    
+    
+
+   
+  //console.log(content.join("  \n"))
+  const fileContent = [`${matter.join("\n")}\n\n`,`${content.join("  \n")}`].join("  \n");
   
-  //console.log(matter.join("\n"))
-   const abilities = Object.keys(focus.abilities);
-  //console.log(abilities)
-  let tierAbilities = ['\n>[!tip]- Tier 1 Abilities'];
-  let tCount = 1;
-  
-   abilities.forEach(aKey =>{
-    const ability = focus.abilities[aKey]
-    const abilityAliase = titleCase(ability.name.trim());
-    const abilityFileName = abilityAliase.split(' ').join('-');
-    if (tCount < ability.tier) {
-        tCount = ability.tier;
-        tierAbilities.push(`\n>[!tip]- Tier ${tCount} Abilities`);
-    } 
-    let isChoice = ability.preselected ? "" : "- "
-    let abilityLink = `${isChoice}[[${abilityFileName}|${abilityAliase}]]`;
-      tierAbilities.push(`>${abilityLink}`);
-  });
-  const fileContent = [`${matter.join("\n")}\n\n`,`## ${aliase}`,`${content} `,`${tierAbilities.join("  \n")}`].join("  \n");
-  console.log(tierAbilities);
   writeFileSync(`${filePath}${fileName}.md`,fileContent);
 });

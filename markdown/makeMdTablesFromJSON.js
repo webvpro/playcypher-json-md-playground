@@ -4,7 +4,7 @@ import { titleCase } from "title-case";
 const CSRDJSON = readFileSync('../CSRD-SRCS/json/CSRD.json');
 const CSRD = JSON.parse(CSRDJSON);
 
-const tables = CSRD.other_tables;
+const tables = CSRD.cypher_tables;
 const filePath = '../markdown/CSRD/Tables/';
 const tagPath = 'Compendiums/CSRD/en/Tables'
 
@@ -14,7 +14,7 @@ tables.forEach(table =>{
    const fileName = aliase.split(' ').join('-');
    let tags = [
      `- ${tagPath}`,
-     "- Table",
+     `- Table`,
    ]
    
    let matter = [
@@ -30,8 +30,8 @@ tables.forEach(table =>{
   if(Array.isArray(table.table)) {
     content.push(`|  Roll &nbsp; &nbsp; | ${aliase}  |`)
     content.push(`| ------------- | :----------- |`)
-
     table.table.forEach((tr)=> {
+
      const numCol = tr.start === tr.end ? tr.start : `${tr.start}-${tr.end}`
      content.push(`| ${numCol} | ${tr.entry} |`)
     })

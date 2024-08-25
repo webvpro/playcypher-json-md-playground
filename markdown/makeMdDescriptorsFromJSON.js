@@ -1,16 +1,15 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { titleCase } from "title-case";
 
-const CSRDJSON = readFileSync('../CSRD-SRCS/json/CSRD_LATEST.json');
+const CSRDJSON = readFileSync('../CSRD-SRCS/json/CSRD.json');
 const CSRD = JSON.parse(CSRDJSON);
 
-const descriptors = Object.keys(CSRD.descriptors.data);
+const descriptors = CSRD.descriptors;
 const filePath = '../markdown/CSRD/Descriptors/';
 const tagPath = 'Compendiums/CSRD/en/Descriptors'
 
-descriptors.forEach(aKey =>{
-   const descriptor =  CSRD.descriptors.data[aKey];
-   const aliase = titleCase(descriptor.name.trim());
+descriptors.forEach(descriptor =>{
+   const aliase = titleCase(descriptor.name.toLowerCase().trim());
    const fileName = aliase.split(' ').join('-');
    let tags = [
      `- ${tagPath}`,
